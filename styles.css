@@ -57,16 +57,38 @@ body::before {
   padding: 28px 0 56px;
 }
 
-.hero {
-  display: grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(260px, 0.8fr);
-  gap: 24px;
-  align-items: stretch;
-  margin-bottom: 24px;
+.header-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 24px;
+  margin-bottom: 20px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  background: var(--panel);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(18px);
 }
 
-.hero-copy,
-.hero-stats,
+.header-left {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+}
+
+.header-bar h1 {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 1.6rem;
+  letter-spacing: -0.02em;
+}
+
+.header-count {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .panel {
   position: relative;
   overflow: hidden;
@@ -75,78 +97,6 @@ body::before {
   background: var(--panel);
   box-shadow: var(--shadow);
   backdrop-filter: blur(18px);
-}
-
-.hero-copy {
-  padding: 34px 34px 38px;
-  background:
-    linear-gradient(135deg, rgba(255, 245, 232, 0.94), rgba(255, 250, 244, 0.82)),
-    var(--panel);
-}
-
-.hero-copy::after {
-  content: "";
-  position: absolute;
-  right: -20px;
-  top: -20px;
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(187, 77, 45, 0.18), transparent 68%);
-}
-
-.hero h1 {
-  margin: 8px 0 12px;
-  max-width: 14ch;
-  font-family: var(--serif);
-  font-size: clamp(2.4rem, 5vw, 4.6rem);
-  line-height: 0.95;
-  letter-spacing: -0.04em;
-}
-
-.hero-text {
-  margin: 0;
-  max-width: 52ch;
-  color: var(--muted);
-  font-size: 1rem;
-  line-height: 1.6;
-}
-
-.hero-stats {
-  padding: 28px;
-  display: grid;
-  align-content: start;
-  gap: 14px;
-  background:
-    radial-gradient(circle at bottom left, rgba(91, 109, 59, 0.2), transparent 34%),
-    linear-gradient(150deg, rgba(255, 249, 240, 0.95), rgba(250, 242, 231, 0.86));
-}
-
-.hero-stats-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 12px;
-}
-
-.stat-card {
-  padding: 14px 16px;
-  border-radius: var(--radius-md);
-  border: 1px solid rgba(64, 45, 27, 0.1);
-  background: rgba(255, 255, 255, 0.52);
-}
-
-.stat-card strong {
-  display: block;
-  font-family: var(--serif);
-  font-size: 1.8rem;
-  line-height: 1;
-}
-
-.stat-card span {
-  display: block;
-  margin-top: 8px;
-  color: var(--muted);
-  font-size: 0.9rem;
 }
 
 .eyebrow {

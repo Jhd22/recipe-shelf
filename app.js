@@ -3,7 +3,8 @@
   const storageKey = "recipe-shelf-favorites";
 
   const elements = {
-    heroStats: document.getElementById("hero-stats"),
+    headerCount: document.getElementById("header-count"),
+    randomPickHeader: document.getElementById("random-pick-header"),
     searchInput: document.getElementById("search-input"),
     clearFilters: document.getElementById("clear-filters"),
     randomPick: document.getElementById("random-pick"),
@@ -59,7 +60,7 @@
     { key: "ingredients", element: elements.ingredientFilters, accessor: (recipe) => recipe.ingredients },
   ];
 
-  renderHero();
+  renderHeader();
   renderGuidedButtons();
   renderFilterGroups();
   render();
@@ -117,47 +118,9 @@
       .slice(0, limit);
   }
 
-  function renderHero() {
-    const stats = [
-      {
-        value: recipes.length,
-        label: "PDF recipes",
-      },
-      {
-        value: new Set(recipes.map((recipe) => recipe.source)).size,
-        label: "sources",
-      },
-      {
-        value: countBy((recipe) => recipe.categories, 1)[0]?.[0] || "Mains",
-        label: "most common lane",
-      },
-      {
-        value: recipes.filter((recipe) => recipe.isHighProtein).length,
-        label: "30g+ protein picks",
-      },
-    ];
-
-    const popularSources = countBy((recipe) => [recipe.source], 3)
-      .map(([label]) => label)
-      .join(" / ");
-
-    elements.heroStats.innerHTML = `
-      <p class="eyebrow">At a glance</p>
-      <h2>Built for scanning a big archive fast.</h2>
-      <div class="hero-stats-grid">
-        ${stats
-          .map(
-            (stat) => `
-              <article class="stat-card">
-                <strong>${escapeHtml(String(stat.value))}</strong>
-                <span>${escapeHtml(stat.label)}</span>
-              </article>
-            `,
-          )
-          .join("")}
-      </div>
-      <p class="hero-text">Heavy hitters: ${escapeHtml(popularSources)}</p>
-    `;
+  function renderHeader() {
+    const proteinCount = recipes.filter((recipe) => recipe.isHighProtein).length;
+    elements.headerCount.textContent = `${recipes.length} recipes · ${proteinCount} high protein`;
   }
 
   function renderFilterGroups() {
@@ -214,16 +177,15 @@
       render();
     });
 
-    elements.randomPick.addEventListener("click", () => {
+    function pickRandomRecipe() {
       const filtered = getFilteredRecipes();
-
-      if (filtered.length === 0) {
-        return;
-      }
-
+      if (filtered.length === 0) return;
       const randomRecipe = filtered[Math.floor(Math.random() * filtered.length)];
       openRecipe(randomRecipe.key);
-    });
+    }
+
+    elements.randomPick.addEventListener("click", pickRandomRecipe);
+    elements.randomPickHeader.addEventListener("click", pickRandomRecipe);
 
     elements.favoritesOnly.addEventListener("change", (event) => {
       state.favoritesOnly = event.target.checked;
@@ -606,7 +568,7 @@
             </div>
 
             <p class="card-subtitle">
-              ${escapeHtml(recipe.source)} · ${escapeHtml(recipe.cuisine)} · ${escapeHtml(formatDate(recipe.modifiedAt))}
+              ${escapeHtml(recipe.source)}${recipe.cuisine !== "Global" ? ` · ${escapeHtml(recipe.cuisine)}` : ""}
             </p>
 
             <div class="card-tags">
@@ -663,9 +625,8 @@
     elements.modalMeta.innerHTML = `
       <span class="tag category">${escapeHtml(recipe.source)}</span>
       <span class="tag">${escapeHtml(recipe.collection)}</span>
-      <span class="tag">${escapeHtml(recipe.cuisine)}</span>
+      ${recipe.cuisine !== "Global" ? `<span class="tag">${escapeHtml(recipe.cuisine)}</span>` : ""}
       ${recipe.proteinPerServingG ? `<span class="tag protein">${recipe.proteinPerServingG}g protein</span>` : ""}
-      <span class="tag">${recipe.fileSizeKb} KB</span>
     `;
     elements.modalDescription.textContent = [
       recipe.sourceDetail,
