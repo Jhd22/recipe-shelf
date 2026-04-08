@@ -307,6 +307,31 @@ const ingredientRules = [
   { label: "Fruit", patterns: ["apple", "apricot", "lemon", "strawberry", "rhubarb", "watermelon", "cherry", "pear"] },
 ];
 
+// New: Meal type rules
+const mealTypeRules = [
+  { label: "breakfast", patterns: ["pancake", "pancakes", "crepe", "crepes", "eggs", "frittata", "huevos", "hash brown", "roesti", "oatmeal", "granola", "biscuit", "scone", "muffin"] },
+  { label: "dessert", patterns: ["cake", "cookie", "cookies", "brownie", "brownies", "pie", "tart", "tiramisu", "galette", "clafouti", "cheesecake", "ice cream", "pudding", "meringue", "shortbread", "biscotti", "financier", "fudge sauce", "bars", "sticky buns"] },
+  { label: "snack", patterns: ["hummus", "guacamole", "tapenade", "dip", "chips", "popcorn", "granola bar"] },
+];
+
+// New: Cook time rules
+const cookTimeRules = [
+  { label: "quick", patterns: ["10-minute", "15-minute", "20-minute", "quick", "easy", "simple", "fast", "one-pot", "sheet pan", "traybake"] },
+  { label: "long", patterns: ["braised", "slow", "24-hour", "preserved", "fermented", "starter", "sourdough", "gravlax", "cured"] },
+];
+
+// New: Effort level rules
+const effortRules = [
+  { label: "easy", patterns: ["simple", "easy", "quick", "one-pot", "sheet pan", "traybake", "basic", "foolproof", "best"] },
+  { label: "involved", patterns: ["homemade", "from scratch", "handmade", "classic", "ultimate", "perfect", "24-hour", "cured", "fermented", "sourdough"] },
+];
+
+// New: Dietary rules
+const dietaryRules = [
+  { label: "vegetarian", patterns: ["vegetarian", "veggie", "meatless"] },
+  { label: "vegan", patterns: ["vegan", "plant-based"] },
+];
+
 function normalize(value) {
   return value
     .normalize("NFKD")
@@ -390,6 +415,57 @@ function resolveProteinOverride(normalizedTitle) {
   return proteinOverrides.find((override) => normalizedTitle.includes(normalize(override.match))) ?? null;
 }
 
+function inferMealType(categories, mealTypeMatches) {
+  // If explicit match from rules, use it
+  if (mealTypeMatches.length > 0) {
+    return mealTypeMatches[0];
+  }
+  // Infer from categories
+  if (categories.includes("Dessert")) return "dessert";
+  if (categories.includes("Breakfast & Eggs")) return "breakfast";
+  if (categories.includes("Drinks")) return "snack";
+  if (categories.includes("Sauces & Condiments")) return "any";
+  // Default: dinner for main dishes
+  return "dinner";
+}
+
+function inferDietary(normalizedTitle, categories, focus, ingredients) {
+  const dietary = [];
+
+  // Check for explicit vegetarian/vegan mentions
+  if (normalizedTitle.includes("vegan")) {
+    dietary.push("vegan");
+    dietary.push("vegetarian");
+  } else if (normalizedTitle.includes("vegetarian")) {
+    dietary.push("vegetarian");
+  }
+
+  // Infer pescatarian (has fish but no meat)
+  const hasFish = ["Seafood"].includes(focus) ||
+    ingredients.some(i => ["Salmon", "Cod", "Fish", "Scallops", "Shrimp", "Crab", "Lobster"].includes(i));
+  if (hasFish) {
+    dietary.push("pescatarian");
+  }
+
+  // Infer vegetarian from focus and ingredients (no meat, no fish)
+  const hasSeafood = hasFish;
+  const meatIndicators = ["chicken", "beef", "pork", "lamb", "bacon", "pancetta", "chorizo", "sausage"];
+  const hasMeat = meatIndicators.some(meat => normalizedTitle.includes(meat));
+
+  if (!hasSeafood && !hasMeat && !dietary.includes("vegetarian")) {
+    // Check if it's likely vegetarian based on focus
+    const vegFocus = ["Beans", "Tofu", "Vegetables", "Eggs", "Sweet", "Bread"].includes(focus);
+    const vegCategories = categories.some(c =>
+      ["Beans & Legumes", "Salads & Vegetables", "Dessert", "Baking & Bread", "Sauces & Condiments"].includes(c)
+    );
+    if (vegFocus || vegCategories) {
+      dietary.push("vegetarian");
+    }
+  }
+
+  return dietary;
+}
+
 async function walkRecipes(dirPath) {
   const entries = await fs.readdir(dirPath, { withFileTypes: true });
   const results = [];
@@ -426,6 +502,13 @@ async function walkRecipes(dirPath) {
     const proteinPerServingG = proteinOverride?.proteinPerServingG ?? null;
     const tags = proteinPerServingG >= 40 ? ["40g+ Protein"] : [];
 
+    // New metadata
+    const mealTypeMatches = matchRules(normalizedTitle, mealTypeRules);
+    const mealType = inferMealType(categories, mealTypeMatches);
+    const cookTime = matchRules(normalizedTitle, cookTimeRules)[0] ?? "medium";
+    const effort = matchRules(normalizedTitle, effortRules)[0] ?? "medium";
+    const dietary = inferDietary(normalizedTitle, categories, focus, ingredients);
+
     results.push({
       title,
       relativePath: relativePath.split(path.sep).join("/"),
@@ -445,6 +528,10 @@ async function walkRecipes(dirPath) {
       modifiedAt: toIsoDate(stats.mtimeMs),
       sortTitle: normalize(title),
       key: normalize(relativePath.replace(/\.pdf$/i, "")),
+      mealType,
+      cookTime,
+      effort,
+      dietary,
     });
   }
 

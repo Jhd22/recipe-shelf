@@ -20,9 +20,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 8177,
-    "modifiedAt": "2025-01-30T10:54:49.963Z",
+    "modifiedAt": "2026-04-08T07:05:00.302Z",
     "sortTitle": "10-minute smoky harissa creamy butter beans",
     "key": "10-minute smoky harissa creamy butter beans recipe | mob",
+    "mealType": "any",
+    "cookTime": "quick",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -44,9 +50,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 179,
-    "modifiedAt": "2021-07-11T12:38:44.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.303Z",
     "sortTitle": "100 percent whole-wheat pancakes",
     "key": "100 percent whole-wheat pancakes | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -69,9 +81,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 43,
-    "modifiedAt": "2021-07-11T11:37:16.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.304Z",
     "sortTitle": "24-hour preserved lemons",
     "key": "24-hour preserved lemons | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "long",
+    "effort": "involved",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -92,9 +108,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 101,
-    "modifiedAt": "2021-07-11T11:38:29.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.362Z",
     "sortTitle": "almond biscotti",
     "key": "almond biscotti | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -119,9 +141,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 66,
-    "modifiedAt": "2021-07-11T11:36:56.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.363Z",
     "sortTitle": "angel hair pasta with basil, caper, and lemon sauce",
     "key": "angel hair pasta with basil, caper, and lemon sauce | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -145,9 +173,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 72,
-    "modifiedAt": "2021-07-11T11:36:47.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.365Z",
     "sortTitle": "angel hair pasta with kalamata olive and basil sauce",
     "key": "angel hair pasta with kalamata olive and basil sauce | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -170,9 +204,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 251,
-    "modifiedAt": "2021-07-12T09:41:21.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.366Z",
     "sortTitle": "apple galette",
     "key": "apple galette | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -195,9 +235,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 162,
-    "modifiedAt": "2021-07-11T12:35:06.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.368Z",
     "sortTitle": "apricot, vanilla, and cardamom pie with rye lattice-top crust",
     "key": "apricot, vanilla, and cardamom pie with rye lattice-top crust | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -222,9 +268,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 164,
-    "modifiedAt": "2021-07-11T11:32:47.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.370Z",
     "sortTitle": "artichoke-lemon ravioli with browned butter-pine nut sauce",
     "key": "artichoke-lemon ravioli with browned butter-pine nut sauce | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -248,9 +300,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 64,
-    "modifiedAt": "2021-07-11T11:25:31.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.371Z",
     "sortTitle": "arugula, roasted bell pepper, and white bean salad",
     "key": "arugula, roasted bell pepper, and white bean salad | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -275,9 +333,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 57,
-    "modifiedAt": "2021-07-11T11:22:18.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.372Z",
     "sortTitle": "asparagus and goat cheese frittata for two",
     "key": "asparagus and goat cheese frittata for two | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -298,9 +362,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2350,
-    "modifiedAt": "2026-03-07T12:06:30.623Z",
+    "modifiedAt": "2026-04-08T07:05:00.969Z",
     "sortTitle": "au poivre creamed greens with crispy walnuts - molly baz",
     "key": "the club-kopi/au poivre creamed greens with crispy walnuts - molly baz",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -321,9 +391,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 80,
-    "modifiedAt": "2021-07-12T09:45:42.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.374Z",
     "sortTitle": "baba ghanoush",
     "key": "baba ghanoush | cook's country",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -346,9 +420,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3326,
-    "modifiedAt": "2024-02-22T09:35:04.613Z",
+    "modifiedAt": "2026-04-08T07:05:00.378Z",
     "sortTitle": "bagoong carbonara",
     "key": "bagoong carbonara",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -374,9 +452,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 48,
-    "modifiedAt": "2024-02-07T16:26:16.891Z",
+    "modifiedAt": "2026-04-08T07:05:00.378Z",
     "sortTitle": "baked eggs and greens in harissa tomato sauce",
     "key": "baked eggs and greens in harissa tomato sauce",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -400,9 +484,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 61,
-    "modifiedAt": "2021-07-11T11:27:11.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.380Z",
     "sortTitle": "barley with lemon and herbs",
     "key": "barley with lemon and herbs | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -423,9 +513,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 51,
-    "modifiedAt": "2021-07-11T12:44:29.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.380Z",
     "sortTitle": "basic couscous",
     "key": "basic couscous | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "easy",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -446,9 +540,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 50,
-    "modifiedAt": "2021-07-12T09:44:44.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.382Z",
     "sortTitle": "basic polenta",
     "key": "basic polenta | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "easy",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -474,15 +572,21 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 4599,
-    "modifiedAt": "2026-02-02T10:48:18.438Z",
+    "modifiedAt": "2026-04-08T07:05:00.326Z",
     "sortTitle": "beans, greens, and crispy trout",
     "key": "adip/beans, greens, and crispy trout - by jesse jenkins",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
-    "title": "Beet and Mushroom Miso Ragù",
-    "relativePath": "Beet and Mushroom Miso Ragù.pdf",
-    "href": "Beet%20and%20Mushroom%20Miso%20Ragu%CC%80.pdf",
+    "title": "Beet and Mushroom Miso Ragù",
+    "relativePath": "Beet and Mushroom Miso Ragù.pdf",
+    "href": "Beet%20and%20Mushroom%20Miso%20Rag%C3%B9.pdf",
     "collection": "Open Shelf",
     "source": "Personal Archive",
     "sourceDetail": "Personal Archive",
@@ -500,9 +604,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 65,
-    "modifiedAt": "2024-02-07T16:09:53.906Z",
+    "modifiedAt": "2026-04-08T07:05:00.383Z",
     "sortTitle": "beet and mushroom miso ragu",
     "key": "beet and mushroom miso ragu",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -525,9 +635,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 68,
-    "modifiedAt": "2021-07-12T09:50:43.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.385Z",
     "sortTitle": "beet barley risotto",
     "key": "beet barley risotto | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -549,9 +665,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 51,
-    "modifiedAt": "2021-07-12T09:51:43.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.389Z",
     "sortTitle": "beet muhummara",
     "key": "beet muhummara | america's test kitchen",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -572,9 +694,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 73,
-    "modifiedAt": "2021-07-11T11:30:41.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.391Z",
     "sortTitle": "beet salad with spiced yogurt and watercress",
     "key": "beet salad with spiced yogurt and watercress | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -601,9 +729,15 @@ window.RECIPES = [
     "isHighProtein": true,
     "proteinPerServingG": 44,
     "fileSizeKb": 112,
-    "modifiedAt": "2026-02-22T17:11:09.060Z",
+    "modifiedAt": "2026-04-08T07:05:00.744Z",
     "sortTitle": "best cod traybake recipe – cod & double bean traybake",
     "key": "mob/best cod traybake recipe – cod & double bean traybake | mob",
+    "mealType": "dinner",
+    "cookTime": "quick",
+    "effort": "easy",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -627,9 +761,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 94,
-    "modifiedAt": "2021-07-11T12:45:14.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.393Z",
     "sortTitle": "best crab cakes",
     "key": "best crab cakes | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "easy",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -650,9 +790,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 135,
-    "modifiedAt": "2021-07-12T09:31:30.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.398Z",
     "sortTitle": "best french onion soup",
     "key": "best french onion soup | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "easy",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -675,9 +819,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 65,
-    "modifiedAt": "2021-07-11T11:26:54.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.400Z",
     "sortTitle": "best lemon bars",
     "key": "best lemon bars | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -698,9 +848,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 177,
-    "modifiedAt": "2021-07-11T12:45:39.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.403Z",
     "sortTitle": "best vegetarian chili",
     "key": "best vegetarian chili | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -721,9 +877,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 65,
-    "modifiedAt": "2021-07-11T11:24:28.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.404Z",
     "sortTitle": "better hash browns",
     "key": "better hash browns | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -746,9 +906,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 215,
-    "modifiedAt": "2021-07-11T12:39:56.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.407Z",
     "sortTitle": "black bean burgers",
     "key": "black bean burgers | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -769,9 +935,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 78,
-    "modifiedAt": "2021-07-11T11:35:11.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.408Z",
     "sortTitle": "black olive tapenade",
     "key": "black olive tapenade | cook's illustrated",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -794,9 +966,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 73,
-    "modifiedAt": "2021-07-12T09:47:42.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.409Z",
     "sortTitle": "blackened salmon tacos with slaw, avocado, and grapefruit",
     "key": "blackened salmon tacos with slaw, avocado, and grapefruit | cook's country",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -821,9 +999,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 111,
-    "modifiedAt": "2021-07-12T09:27:48.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.463Z",
     "sortTitle": "braised eggplant with paprika, coriander, and yogurt",
     "key": "braised eggplant with paprika, coriander, and yogurt | america's test kitchen",
+    "mealType": "breakfast",
+    "cookTime": "long",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -848,9 +1032,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 94,
-    "modifiedAt": "2021-07-11T11:33:39.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.465Z",
     "sortTitle": "braised eggplant with pomegranate and tahini",
     "key": "braised eggplant with pomegranate and tahini | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "long",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -875,9 +1065,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 92,
-    "modifiedAt": "2021-07-11T11:33:24.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.466Z",
     "sortTitle": "braised eggplant with soy, garlic, and ginger",
     "key": "braised eggplant with soy, garlic, and ginger | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "long",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -898,9 +1094,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 111,
-    "modifiedAt": "2021-07-11T12:48:40.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.467Z",
     "sortTitle": "british-style currant scones",
     "key": "british-style currant scones | america's test kitchen",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -926,9 +1128,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 71,
-    "modifiedAt": "2021-07-12T09:47:19.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.469Z",
     "sortTitle": "broccoli rabe with polenta and fried eggs",
     "key": "broccoli rabe with polenta and fried eggs | cook's country",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -952,9 +1160,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 274,
-    "modifiedAt": "2021-07-11T12:33:55.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.470Z",
     "sortTitle": "broccoli salad with avocado dressing",
     "key": "broccoli salad with avocado dressing | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -977,9 +1191,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 91,
-    "modifiedAt": "2023-12-12T16:08:15.692Z",
+    "modifiedAt": "2026-04-08T07:05:00.472Z",
     "sortTitle": "broccoli spoon salad with warm vinaigrette",
     "key": "broccoli spoon salad with warm vinaigrette",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1000,9 +1220,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 426,
-    "modifiedAt": "2021-07-11T11:36:22.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.473Z",
     "sortTitle": "buckwheat crepes",
     "key": "buckwheat crepes | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1025,9 +1251,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 69,
-    "modifiedAt": "2021-07-11T11:30:59.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.475Z",
     "sortTitle": "bulgur bowl with vegetables and marinated tofu",
     "key": "bulgur bowl with vegetables and marinated tofu | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1051,9 +1283,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 78,
-    "modifiedAt": "2021-07-11T11:36:11.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.476Z",
     "sortTitle": "butter-basted fish fillets with garlic and thyme",
     "key": "butter-basted fish fillets with garlic and thyme | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -1078,9 +1316,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3154,
-    "modifiedAt": "2024-02-22T09:35:16.873Z",
+    "modifiedAt": "2026-04-08T07:05:00.482Z",
     "sortTitle": "buttermilk cabbage soup",
     "key": "buttermilk cabbage soup",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1106,9 +1350,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 73,
-    "modifiedAt": "2021-07-11T11:21:31.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.483Z",
     "sortTitle": "butternut squash and white bean soup with sage pesto",
     "key": "butternut squash and white bean soup with sage pesto | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1130,9 +1380,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 56,
-    "modifiedAt": "2021-07-19T12:27:33.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.484Z",
     "sortTitle": "butterscotch meringue bars",
     "key": "butterscotch meringue bars | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1155,9 +1411,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 4138,
-    "modifiedAt": "2024-02-22T09:36:40.991Z",
+    "modifiedAt": "2026-04-08T07:05:00.490Z",
     "sortTitle": "cantonese steamed fish",
     "key": "cantonese steamed fish",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -1178,9 +1440,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 37,
-    "modifiedAt": "2021-07-23T12:10:04.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.491Z",
     "sortTitle": "caper-mustard sauce",
     "key": "caper-mustard sauce | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1204,9 +1472,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 4137,
-    "modifiedAt": "2026-02-02T10:49:13.995Z",
+    "modifiedAt": "2026-04-08T07:05:00.347Z",
     "sortTitle": "carrot and ginger soup, with spiced chickpeas",
     "key": "adip/carrot and ginger soup, with spiced chickpeas",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1229,9 +1503,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 4076,
-    "modifiedAt": "2024-02-22T09:36:30.600Z",
+    "modifiedAt": "2026-04-08T07:05:00.496Z",
     "sortTitle": "carrot pasta",
     "key": "carrot pasta",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -1252,9 +1530,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 58,
-    "modifiedAt": "2021-07-11T12:46:59.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.497Z",
     "sortTitle": "carrot-ginger soup",
     "key": "carrot-ginger soup | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -1280,9 +1562,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 288,
-    "modifiedAt": "2026-02-22T17:14:05.645Z",
+    "modifiedAt": "2026-04-08T07:05:00.712Z",
     "sortTitle": "cauliflower & sesame eggs with herby coriander salsa",
     "key": "mob/cauliflower & sesame eggs with herby coriander salsa | mob",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1303,9 +1591,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 1065,
-    "modifiedAt": "2025-01-09T10:14:42.475Z",
+    "modifiedAt": "2026-04-08T07:05:00.499Z",
     "sortTitle": "celeriac schnitzel with salsa verde",
     "key": "celeriac schnitzel with salsa verde | guest recipes | nigella's recipes | nigella lawson",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1326,9 +1620,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 65,
-    "modifiedAt": "2021-07-11T11:38:18.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.501Z",
     "sortTitle": "chana masala",
     "key": "chana masala | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -1352,9 +1650,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 8022,
-    "modifiedAt": "2024-02-22T09:34:09.422Z",
+    "modifiedAt": "2026-04-08T07:05:00.510Z",
     "sortTitle": "charred cabbage with coconut peanut sauce",
     "key": "charred cabbage with coconut peanut sauce",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1375,9 +1679,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3839,
-    "modifiedAt": "2024-02-22T09:35:07.573Z",
+    "modifiedAt": "2026-04-08T07:05:00.515Z",
     "sortTitle": "chawanmushi",
     "key": "chawanmushi",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -1402,9 +1710,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 92,
-    "modifiedAt": "2021-07-11T12:32:25.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.517Z",
     "sortTitle": "cheese and tomato lasagna",
     "key": "cheese and tomato lasagna | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1427,9 +1741,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 150,
-    "modifiedAt": "2021-07-11T12:37:49.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.518Z",
     "sortTitle": "cherry clafouti",
     "key": "cherry clafouti | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1452,9 +1772,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 359,
-    "modifiedAt": "2021-07-11T12:43:51.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.519Z",
     "sortTitle": "chewy brownies",
     "key": "chewy brownies | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1479,9 +1805,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 61,
-    "modifiedAt": "2021-07-12T09:49:54.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.521Z",
     "sortTitle": "chickpea and fennel soup",
     "key": "chickpea and fennel soup | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1505,9 +1837,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 113,
-    "modifiedAt": "2026-02-22T17:13:02.361Z",
+    "modifiedAt": "2026-04-08T07:05:00.699Z",
     "sortTitle": "chickpea palak paneer",
     "key": "mob/chickpea palak paneer recipe | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1532,9 +1870,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 73,
-    "modifiedAt": "2021-07-12T09:48:30.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.522Z",
     "sortTitle": "chickpea shakshuka",
     "key": "chickpea shakshuka | cook's country",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1558,9 +1902,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2027,
-    "modifiedAt": "2025-01-30T10:53:10.562Z",
+    "modifiedAt": "2026-04-08T07:05:00.526Z",
     "sortTitle": "chickpea, tahini & harissa smoosh",
     "key": "chickpea, tahini & harissa smoosh | mob",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1581,9 +1931,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 54,
-    "modifiedAt": "2021-07-11T12:40:14.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.527Z",
     "sortTitle": "chipotle mayonnaise",
     "key": "chipotle mayonnaise | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -1607,9 +1961,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 89,
-    "modifiedAt": "2021-07-12T09:30:04.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.529Z",
     "sortTitle": "chocolate chip cookie ice cream sandwiches",
     "key": "chocolate chip cookie ice cream sandwiches | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1632,9 +1992,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 72,
-    "modifiedAt": "2021-07-11T12:33:26.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.530Z",
     "sortTitle": "chocolate chunk financiers",
     "key": "chocolate chunk financiers | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1657,9 +2023,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 114,
-    "modifiedAt": "2021-07-12T09:47:08.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.531Z",
     "sortTitle": "chocolate ganache-filled brownies",
     "key": "chocolate ganache-filled brownies | cook's country",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1682,9 +2054,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 87,
-    "modifiedAt": "2021-07-11T12:34:40.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.533Z",
     "sortTitle": "chocolate sheet cake with milk chocolate frosting",
     "key": "chocolate sheet cake with milk chocolate frosting | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1707,9 +2085,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 207,
-    "modifiedAt": "2021-07-11T12:29:27.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.534Z",
     "sortTitle": "chocolate-caramel layer cake",
     "key": "chocolate-caramel layer cake | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1730,9 +2114,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 58,
-    "modifiedAt": "2021-07-11T11:24:55.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.536Z",
     "sortTitle": "classic guacamole",
     "key": "classic guacamole | cook's illustrated",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "involved",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1755,16 +2145,22 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 88,
-    "modifiedAt": "2021-07-12T09:50:08.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.537Z",
     "sortTitle": "classic sicilian pizza",
     "key": "classic sicilian pizza | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "involved",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
     "title": "Cocktails",
-    "relativePath": "Bon Appétit/Cocktails.pdf",
-    "href": "Bon%20Appe%CC%81tit/Cocktails.pdf",
-    "collection": "Bon Appétit",
+    "relativePath": "Bon Appétit/Cocktails.pdf",
+    "href": "Bon%20App%C3%A9tit/Cocktails.pdf",
+    "collection": "Bon Appétit",
     "source": "Bon Appetit",
     "sourceDetail": "Bon Appetit",
     "categories": [
@@ -1778,9 +2174,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 5613,
-    "modifiedAt": "2019-11-18T16:11:11.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.440Z",
     "sortTitle": "cocktails",
     "key": "bon appetit/cocktails",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -1805,9 +2205,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 57,
-    "modifiedAt": "2024-02-07T16:12:16.018Z",
+    "modifiedAt": "2026-04-08T07:05:00.538Z",
     "sortTitle": "coconutty beans and greens stew",
     "key": "coconutty beans and greens stew",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1831,9 +2237,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 8937,
-    "modifiedAt": "2025-01-30T10:54:30.786Z",
+    "modifiedAt": "2026-04-08T07:05:00.549Z",
     "sortTitle": "coconutty butter bean curry",
     "key": "coconutty butter bean curry | mob",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1857,9 +2269,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2744,
-    "modifiedAt": "2026-02-02T10:48:50.461Z",
+    "modifiedAt": "2026-04-08T07:05:00.361Z",
     "sortTitle": "cod, fennel, and chorizo",
     "key": "adip/cod, fennel, and chorizo - by jesse jenkins",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -1882,9 +2300,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3819,
-    "modifiedAt": "2024-02-22T09:35:54.896Z",
+    "modifiedAt": "2026-04-08T07:05:00.554Z",
     "sortTitle": "corn puree and tomato vinaigrette",
     "key": "corn puree and tomato vinaigrette",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -1905,9 +2329,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 65,
-    "modifiedAt": "2021-07-12T09:46:09.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.555Z",
     "sortTitle": "corn tortillas",
     "key": "corn tortillas | cook's country",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 2
   },
   {
@@ -1928,9 +2358,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 59,
-    "modifiedAt": "2021-07-11T11:21:14.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.556Z",
     "sortTitle": "corn tortillas",
     "key": "corn tortillas | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 2
   },
   {
@@ -1951,9 +2387,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 75,
-    "modifiedAt": "2021-07-12T09:48:18.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.558Z",
     "sortTitle": "couscous tabbouleh",
     "key": "couscous tabbouleh | cook's country",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -1977,9 +2417,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 52,
-    "modifiedAt": "2021-07-12T09:31:13.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.559Z",
     "sortTitle": "creamless creamy tomato soup",
     "key": "creamless creamy tomato soup | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2004,9 +2450,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 64,
-    "modifiedAt": "2024-02-07T16:21:50.259Z",
+    "modifiedAt": "2026-04-08T07:05:00.560Z",
     "sortTitle": "creamy cauliflower soup with cheesy mustard croutons",
     "key": "creamy cauliflower soup with cheesy mustard croutons",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2031,9 +2483,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 89,
-    "modifiedAt": "2021-07-11T12:43:39.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.562Z",
     "sortTitle": "creamy gazpacho andaluz",
     "key": "creamy gazpacho andaluz | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2057,9 +2515,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 90,
-    "modifiedAt": "2023-10-22T10:11:56.993Z",
+    "modifiedAt": "2026-04-08T07:05:00.563Z",
     "sortTitle": "creamy mushroom and green bean masala",
     "key": "creamy mushroom and green bean masala",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2080,18 +2544,22 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 109,
-    "modifiedAt": "2021-07-12T09:30:23.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.564Z",
     "sortTitle": "creamy parmesan polenta",
     "key": "creamy parmesan polenta | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
     "title": "Creamy Pasta with Mushrooms",
-    "relativePath": "Creamy Pasta with Mushrooms Recipe | Bon Appétit.pdf",
-    "href": "Creamy%20Pasta%20with%20Mushrooms%20Recipe%20%7C%20Bon%20Appe%CC%81tit.pdf",
+    "relativePath": "Creamy Pasta with Mushrooms Recipe | Bon Appétit.pdf",
+    "href": "Creamy%20Pasta%20with%20Mushrooms%20Recipe%20%7C%20Bon%20App%C3%A9tit.pdf",
     "collection": "Open Shelf",
     "source": "Bon Appetit",
-    "sourceDetail": "Bon Appétit",
+    "sourceDetail": "Bon Appétit",
     "categories": [
       "Pasta & Noodles"
     ],
@@ -2106,9 +2574,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 86,
-    "modifiedAt": "2022-03-24T20:43:56.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.565Z",
     "sortTitle": "creamy pasta with mushrooms",
     "key": "creamy pasta with mushrooms recipe | bon appetit",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2132,9 +2606,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 103,
-    "modifiedAt": "2026-02-22T17:13:20.456Z",
+    "modifiedAt": "2026-04-08T07:05:00.763Z",
     "sortTitle": "creamy tahini beans with mushrooms",
     "key": "mob/creamy tahini beans with mushrooms | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2158,9 +2638,16 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 54,
-    "modifiedAt": "2024-02-07T16:10:40.593Z",
+    "modifiedAt": "2026-04-08T07:05:00.567Z",
     "sortTitle": "creamy vegan tomato soup",
     "key": "creamy vegan tomato soup",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2185,9 +2672,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 69,
-    "modifiedAt": "2021-07-11T11:33:52.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.568Z",
     "sortTitle": "creamy white bean soup with extra-virgin olive oil and quick-pickled celery",
     "key": "creamy white bean soup with extra-virgin olive oil and quick-pickled celery | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "quick",
+    "effort": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2211,9 +2704,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 76,
-    "modifiedAt": "2021-07-11T11:34:22.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.570Z",
     "sortTitle": "creamy white bean soup with herb oil and crispy capers",
     "key": "creamy white bean soup with herb oil and crispy capers | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2238,9 +2737,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 967,
-    "modifiedAt": "2025-01-30T10:53:23.009Z",
+    "modifiedAt": "2026-04-08T07:05:00.571Z",
     "sortTitle": "creamy zaalouk beans with a pistachio tofu crumb",
     "key": "creamy zaalouk beans with a pistachio tofu crumb recipe | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2261,9 +2766,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 112,
-    "modifiedAt": "2021-07-12T09:42:45.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.573Z",
     "sortTitle": "crepes suzette",
     "key": "crepes suzette | america's test kitchen",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2285,18 +2796,24 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2215,
-    "modifiedAt": "2026-03-07T12:06:12.182Z",
+    "modifiedAt": "2026-04-08T07:05:00.957Z",
     "sortTitle": "crispy cottage cheese pancakes - molly baz",
     "key": "the club-kopi/crispy cottage cheese pancakes - molly baz",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
     "title": "Crispy Tofu With Maple-Soy Glaze",
-    "relativePath": "Crispy Tofu With Maple-Soy Glaze Recipe | Bon Appétit-kopi.pdf",
-    "href": "Crispy%20Tofu%20With%20Maple-Soy%20Glaze%20Recipe%20%7C%20Bon%20Appe%CC%81tit-kopi.pdf",
+    "relativePath": "Crispy Tofu With Maple-Soy Glaze Recipe | Bon Appétit-kopi.pdf",
+    "href": "Crispy%20Tofu%20With%20Maple-Soy%20Glaze%20Recipe%20%7C%20Bon%20App%C3%A9tit-kopi.pdf",
     "collection": "Open Shelf",
     "source": "Personal Archive",
-    "sourceDetail": "Bon Appétit-kopi",
+    "sourceDetail": "Bon Appétit-kopi",
     "categories": [
       "Mains"
     ],
@@ -2310,18 +2827,24 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 55,
-    "modifiedAt": "2024-04-21T16:31:25.529Z",
+    "modifiedAt": "2026-04-08T07:05:00.574Z",
     "sortTitle": "crispy tofu with maple-soy glaze",
     "key": "crispy tofu with maple-soy glaze recipe | bon appetit-kopi",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 2
   },
   {
     "title": "Crispy Tofu With Maple-Soy Glaze",
-    "relativePath": "Crispy Tofu With Maple-Soy Glaze Recipe | Bon Appétit.pdf",
-    "href": "Crispy%20Tofu%20With%20Maple-Soy%20Glaze%20Recipe%20%7C%20Bon%20Appe%CC%81tit.pdf",
+    "relativePath": "Crispy Tofu With Maple-Soy Glaze Recipe | Bon Appétit.pdf",
+    "href": "Crispy%20Tofu%20With%20Maple-Soy%20Glaze%20Recipe%20%7C%20Bon%20App%C3%A9tit.pdf",
     "collection": "Open Shelf",
     "source": "Bon Appetit",
-    "sourceDetail": "Bon Appétit",
+    "sourceDetail": "Bon Appétit",
     "categories": [
       "Mains"
     ],
@@ -2335,9 +2858,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 59,
-    "modifiedAt": "2024-04-21T16:31:59.521Z",
+    "modifiedAt": "2026-04-08T07:05:00.575Z",
     "sortTitle": "crispy tofu with maple-soy glaze",
     "key": "crispy tofu with maple-soy glaze recipe | bon appetit",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 2
   },
   {
@@ -2360,9 +2889,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 58,
-    "modifiedAt": "2024-02-07T16:10:12.108Z",
+    "modifiedAt": "2026-04-08T07:05:00.576Z",
     "sortTitle": "crispy tofu with peanut sauce",
     "key": "crispy tofu with peanut sauce",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2386,9 +2921,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 293,
-    "modifiedAt": "2026-02-22T17:14:16.932Z",
+    "modifiedAt": "2026-04-08T07:05:00.698Z",
     "sortTitle": "crispy tofu with spiced rice",
     "key": "mob/crispy tofu with spiced rice | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2411,9 +2952,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 1315,
-    "modifiedAt": "2026-03-07T12:05:01.660Z",
+    "modifiedAt": "2026-04-08T07:05:00.965Z",
     "sortTitle": "crispy-crackly minty-pea lasagna - molly baz",
     "key": "the club-kopi/crispy-crackly minty-pea lasagna - molly baz",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -2434,9 +2979,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 57,
-    "modifiedAt": "2021-07-11T11:38:58.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.577Z",
     "sortTitle": "cultured butter",
     "key": "cultured butter | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2460,16 +3011,22 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 57,
-    "modifiedAt": "2021-07-11T11:28:27.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.578Z",
     "sortTitle": "dark chocolate fudge sauce",
     "key": "dark chocolate fudge sauce | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
     "title": "Dessert",
-    "relativePath": "Bon Appétit/Dessert.pdf",
-    "href": "Bon%20Appe%CC%81tit/Dessert.pdf",
-    "collection": "Bon Appétit",
+    "relativePath": "Bon Appétit/Dessert.pdf",
+    "href": "Bon%20App%C3%A9tit/Dessert.pdf",
+    "collection": "Bon Appétit",
     "source": "Bon Appetit",
     "sourceDetail": "Bon Appetit",
     "categories": [
@@ -2483,9 +3040,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 9268,
-    "modifiedAt": "2019-11-18T16:11:48.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.423Z",
     "sortTitle": "dessert",
     "key": "bon appetit/dessert",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2508,9 +3071,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 136,
-    "modifiedAt": "2021-07-11T12:33:41.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.580Z",
     "sortTitle": "egg, kimchi, and avocado sandwiches",
     "key": "egg, kimchi, and avocado sandwiches | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2535,9 +3104,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 75,
-    "modifiedAt": "2021-07-12T09:44:32.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.581Z",
     "sortTitle": "eggplant parmesan",
     "key": "eggplant parmesan | america's test kitchen",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2562,9 +3137,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 4089,
-    "modifiedAt": "2024-02-22T09:36:20.466Z",
+    "modifiedAt": "2026-04-08T07:05:00.587Z",
     "sortTitle": "eggplant with chili and crunchy topping",
     "key": "eggplant with chili and crunchy topping",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2590,9 +3171,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 114,
-    "modifiedAt": "2021-07-11T11:31:39.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.588Z",
     "sortTitle": "eggs in spicy tomato and roasted red pepper sauce (shakshuka)",
     "key": "eggs in spicy tomato and roasted red pepper sauce (shakshuka) | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2616,9 +3203,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 156,
-    "modifiedAt": "2021-07-11T11:39:43.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.590Z",
     "sortTitle": "espinacas con garbanzos (andalusian spinach and chickpeas)",
     "key": "espinacas con garbanzos (andalusian spinach and chickpeas) | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2639,9 +3232,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 75,
-    "modifiedAt": "2021-07-11T11:28:42.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.590Z",
     "sortTitle": "esquites (mexican corn salad)",
     "key": "esquites (mexican corn salad) | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2664,9 +3263,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 119,
-    "modifiedAt": "2021-07-11T11:30:21.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.592Z",
     "sortTitle": "falafel",
     "key": "falafel | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2690,9 +3295,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 76,
-    "modifiedAt": "2021-07-11T11:38:08.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.593Z",
     "sortTitle": "farro and broccoli rabe gratin",
     "key": "farro and broccoli rabe gratin | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2715,9 +3326,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 69,
-    "modifiedAt": "2021-07-11T11:19:08.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.594Z",
     "sortTitle": "farrotto with pancetta, asparagus, and peas",
     "key": "farrotto with pancetta, asparagus, and peas | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -2742,9 +3357,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 242,
-    "modifiedAt": "2021-07-11T12:40:28.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.596Z",
     "sortTitle": "fattoush (pita bread salad with tomatoes and cucumber)",
     "key": "fattoush (pita bread salad with tomatoes and cucumber) | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2767,9 +3388,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 134,
-    "modifiedAt": "2021-07-12T09:43:41.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.597Z",
     "sortTitle": "fettuccine alfredo",
     "key": "fettuccine alfredo | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -2791,9 +3416,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 65,
-    "modifiedAt": "2021-07-11T12:35:57.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.599Z",
     "sortTitle": "financiers (almond–browned butter cakes)",
     "key": "financiers (almond–browned butter cakes) | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2816,9 +3447,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 113,
-    "modifiedAt": "2021-07-12T09:43:19.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.600Z",
     "sortTitle": "fish and chips",
     "key": "fish and chips | america's test kitchen",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -2841,9 +3478,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2707,
-    "modifiedAt": "2026-03-07T12:05:47.058Z",
+    "modifiedAt": "2026-04-08T07:05:00.999Z",
     "sortTitle": "flaky za’atar and feta biscuits - molly baz",
     "key": "the club-kopi/flaky za’atar and feta biscuits - molly baz",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2866,9 +3509,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2719,
-    "modifiedAt": "2024-02-22T09:35:12.283Z",
+    "modifiedAt": "2026-04-08T07:05:00.603Z",
     "sortTitle": "fluffy flourless fernet chocolate cake",
     "key": "fluffy flourless fernet chocolate cake",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2889,9 +3538,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 54,
-    "modifiedAt": "2021-07-11T12:51:42.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.605Z",
     "sortTitle": "foolproof hollandaise sauce",
     "key": "foolproof hollandaise sauce | america's test kitchen",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2913,9 +3568,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 63,
-    "modifiedAt": "2021-07-11T12:34:53.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.607Z",
     "sortTitle": "foolproof rye dough for double-crust pie",
     "key": "foolproof rye dough for double-crust pie | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2937,9 +3598,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 67,
-    "modifiedAt": "2021-07-11T11:29:45.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.608Z",
     "sortTitle": "foolproof rye dough for single-crust pie",
     "key": "foolproof rye dough for single-crust pie | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2961,9 +3628,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 66,
-    "modifiedAt": "2021-07-11T11:30:05.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.610Z",
     "sortTitle": "foolproof whole-wheat dough for single-crust pie",
     "key": "foolproof whole-wheat dough for single-crust pie | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -2986,9 +3659,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 213,
-    "modifiedAt": "2021-07-11T12:47:22.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.611Z",
     "sortTitle": "french apple tart",
     "key": "french apple tart | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3009,9 +3688,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 75,
-    "modifiedAt": "2021-07-11T12:35:33.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.613Z",
     "sortTitle": "fresh herb finishing salts",
     "key": "fresh herb finishing salts | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3032,9 +3717,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 65,
-    "modifiedAt": "2021-07-11T11:23:14.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.614Z",
     "sortTitle": "fresno chile–carrot hot sauce",
     "key": "fresno chile–carrot hot sauce | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3057,9 +3748,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 65,
-    "modifiedAt": "2021-07-12T09:50:54.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.615Z",
     "sortTitle": "fried eggs over garlicky chard and bell pepper",
     "key": "fried eggs over garlicky chard and bell pepper | america's test kitchen",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3082,9 +3779,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 4221,
-    "modifiedAt": "2024-02-22T09:36:05.282Z",
+    "modifiedAt": "2026-04-08T07:05:00.622Z",
     "sortTitle": "fried fish and sungolds",
     "key": "fried fish and sungolds",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -3105,9 +3808,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 56,
-    "modifiedAt": "2021-07-11T11:34:44.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.623Z",
     "sortTitle": "garlic confit",
     "key": "garlic confit | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3128,9 +3837,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 69,
-    "modifiedAt": "2021-07-11T11:34:05.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.625Z",
     "sortTitle": "garlic confit butter",
     "key": "garlic confit butter | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3151,9 +3866,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 54,
-    "modifiedAt": "2021-07-11T11:39:23.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.627Z",
     "sortTitle": "gin martini",
     "key": "gin martini | cook's illustrated",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -3176,9 +3895,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 8179,
-    "modifiedAt": "2026-02-22T17:14:50.332Z",
+    "modifiedAt": "2026-04-08T07:05:00.728Z",
     "sortTitle": "ginger & chilli tofu scramble",
     "key": "mob/ginger & chilli tofu scramble | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3201,9 +3926,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 183,
-    "modifiedAt": "2021-07-11T12:44:17.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.628Z",
     "sortTitle": "glazed salmon",
     "key": "glazed salmon | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -3224,9 +3955,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 56,
-    "modifiedAt": "2024-02-07T16:25:56.671Z",
+    "modifiedAt": "2026-04-08T07:05:00.629Z",
     "sortTitle": "gochujang-sesame noodles",
     "key": "gochujang-sesame noodles",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -3248,9 +3983,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 1113,
-    "modifiedAt": "2026-03-07T12:06:24.785Z",
+    "modifiedAt": "2026-04-08T07:05:00.935Z",
     "sortTitle": "grandma pie with morty-d & pistachio-pickled pepper pesto - molly baz",
     "key": "the club-kopi/grandma pie with morty-d & pistachio-pickled pepper pesto - molly baz",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3274,9 +4015,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2657,
-    "modifiedAt": "2026-03-07T12:05:33.327Z",
+    "modifiedAt": "2026-04-08T07:05:00.994Z",
     "sortTitle": "grated zucchini and pistachio pizza - molly baz",
     "key": "the club-kopi/grated zucchini and pistachio pizza - molly baz",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3299,9 +4046,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 75,
-    "modifiedAt": "2021-07-12T09:48:42.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.631Z",
     "sortTitle": "gravlax",
     "key": "gravlax | cook's country",
+    "mealType": "dinner",
+    "cookTime": "long",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -3325,9 +4078,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 108,
-    "modifiedAt": "2021-07-11T12:44:55.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.633Z",
     "sortTitle": "greek spinach and feta pie (spanakopita)",
     "key": "greek spinach and feta pie (spanakopita) | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3352,9 +4111,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3457,
-    "modifiedAt": "2026-02-22T17:12:39.911Z",
+    "modifiedAt": "2026-04-08T07:05:00.718Z",
     "sortTitle": "green herby lentils with pasta",
     "key": "mob/green herby lentils with pasta | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3377,9 +4142,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 222,
-    "modifiedAt": "2021-07-11T12:47:10.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.634Z",
     "sortTitle": "grilled fish tacos",
     "key": "grilled fish tacos | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -3402,9 +4173,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 76,
-    "modifiedAt": "2021-07-12T09:49:22.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.636Z",
     "sortTitle": "grilled lobsters",
     "key": "grilled lobsters | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -3425,15 +4202,19 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 75,
-    "modifiedAt": "2021-07-11T12:31:59.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.637Z",
     "sortTitle": "grilled onions with balsamic vinaigrette",
     "key": "grilled onions with balsamic vinaigrette | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
-    "title": "Grilled Party Salmon With Green Romesco Recipe _ Bon Appétit copy",
-    "relativePath": "Grilled Party Salmon With Green Romesco Recipe _ Bon Appétit copy.pdf",
-    "href": "Grilled%20Party%20Salmon%20With%20Green%20Romesco%20Recipe%20_%20Bon%20Appe%CC%81tit%20copy.pdf",
+    "title": "Grilled Party Salmon With Green Romesco Recipe _ Bon Appétit copy",
+    "relativePath": "Grilled Party Salmon With Green Romesco Recipe _ Bon Appétit copy.pdf",
+    "href": "Grilled%20Party%20Salmon%20With%20Green%20Romesco%20Recipe%20_%20Bon%20App%C3%A9tit%20copy.pdf",
     "collection": "Open Shelf",
     "source": "Personal Archive",
     "sourceDetail": "Personal Archive",
@@ -3451,9 +4232,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 243,
-    "modifiedAt": "2024-12-31T09:24:50.683Z",
+    "modifiedAt": "2026-04-08T07:05:00.638Z",
     "sortTitle": "grilled party salmon with green romesco recipe _ bon appetit copy",
     "key": "grilled party salmon with green romesco recipe _ bon appetit copy",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -3476,9 +4263,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 90,
-    "modifiedAt": "2023-10-22T10:11:55.328Z",
+    "modifiedAt": "2026-04-08T07:05:00.639Z",
     "sortTitle": "grilled salmon",
     "key": "grilled salmon",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -3502,9 +4295,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 72,
-    "modifiedAt": "2021-07-12T09:29:00.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.641Z",
     "sortTitle": "grilled scallops with fennel and orange salad for two",
     "key": "grilled scallops with fennel and orange salad for two | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -3528,9 +4327,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2984,
-    "modifiedAt": "2024-02-22T09:36:25.606Z",
+    "modifiedAt": "2026-04-08T07:05:00.645Z",
     "sortTitle": "grilled shishitos with fish sauce",
     "key": "grilled shishitos with fish sauce",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -3554,9 +4359,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 55,
-    "modifiedAt": "2021-07-11T11:27:40.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.647Z",
     "sortTitle": "grilled tomato gazpacho",
     "key": "grilled tomato gazpacho | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3579,9 +4390,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 79,
-    "modifiedAt": "2021-07-12T09:52:16.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.648Z",
     "sortTitle": "grilled vegetable and halloumi salad",
     "key": "grilled vegetable and halloumi salad | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3604,16 +4421,22 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 183,
-    "modifiedAt": "2021-07-11T12:38:33.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.649Z",
     "sortTitle": "grilled whole trout with lime and coriander",
     "key": "grilled whole trout with lime and coriander | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
     "title": "Grilling",
-    "relativePath": "Bon Appétit/Grilling.pdf",
-    "href": "Bon%20Appe%CC%81tit/Grilling.pdf",
-    "collection": "Bon Appétit",
+    "relativePath": "Bon Appétit/Grilling.pdf",
+    "href": "Bon%20App%C3%A9tit/Grilling.pdf",
+    "collection": "Bon Appétit",
     "source": "Bon Appetit",
     "sourceDetail": "Bon Appetit",
     "categories": [
@@ -3627,15 +4450,19 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 7302,
-    "modifiedAt": "2019-11-18T16:12:17.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.462Z",
     "sortTitle": "grilling",
     "key": "bon appetit/grilling",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
-    "title": "Grown-Up Grilled Cheese Sandwiches with Gruyère and Chives",
-    "relativePath": "Grown-Up Grilled Cheese Sandwiches with Gruyère and Chives | America's Test Kitchen.pdf",
-    "href": "Grown-Up%20Grilled%20Cheese%20Sandwiches%20with%20Gruye%CC%80re%20and%20Chives%20%7C%20America's%20Test%20Kitchen.pdf",
+    "title": "Grown-Up Grilled Cheese Sandwiches with Gruyère and Chives",
+    "relativePath": "Grown-Up Grilled Cheese Sandwiches with Gruyère and Chives | America's Test Kitchen.pdf",
+    "href": "Grown-Up%20Grilled%20Cheese%20Sandwiches%20with%20Gruy%C3%A8re%20and%20Chives%20%7C%20America's%20Test%20Kitchen.pdf",
     "collection": "Open Shelf",
     "source": "America's Test Kitchen",
     "sourceDetail": "America's Test Kitchen",
@@ -3650,9 +4477,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 57,
-    "modifiedAt": "2021-07-12T09:28:44.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.651Z",
     "sortTitle": "grown-up grilled cheese sandwiches with gruyere and chives",
     "key": "grown-up grilled cheese sandwiches with gruyere and chives | america's test kitchen",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -3673,9 +4504,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 54,
-    "modifiedAt": "2021-07-11T11:26:40.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.652Z",
     "sortTitle": "harissa",
     "key": "harissa | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3696,9 +4533,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 175,
-    "modifiedAt": "2021-07-11T12:43:26.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.653Z",
     "sortTitle": "hearty minestrone",
     "key": "hearty minestrone | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -3722,9 +4563,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 94,
-    "modifiedAt": "2021-07-12T09:31:46.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.654Z",
     "sortTitle": "hearty tuscan bean stew",
     "key": "hearty tuscan bean stew | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3747,9 +4594,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 8176,
-    "modifiedAt": "2026-02-22T17:14:42.780Z",
+    "modifiedAt": "2026-04-08T07:05:00.743Z",
     "sortTitle": "high protein chopped broccoli salad",
     "key": "mob/high protein chopped broccoli salad | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3773,9 +4626,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 8180,
-    "modifiedAt": "2026-02-22T17:11:31.500Z",
+    "modifiedAt": "2026-04-08T07:05:00.755Z",
     "sortTitle": "high-protein cauliflower soup with sticky onions",
     "key": "mob/high-protein cauliflower soup with sticky onions | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3799,9 +4658,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 732,
-    "modifiedAt": "2025-01-30T10:53:33.797Z",
+    "modifiedAt": "2026-04-08T07:05:00.656Z",
     "sortTitle": "high-protein moroccan inspired chickpea soup",
     "key": "high-protein moroccan inspired chickpea soup | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3822,9 +4687,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 72,
-    "modifiedAt": "2021-07-12T09:47:30.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.656Z",
     "sortTitle": "homemade creamy ricotta cheese",
     "key": "homemade creamy ricotta cheese | cook's country",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "involved",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3847,9 +4718,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 158,
-    "modifiedAt": "2021-07-11T12:45:28.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.658Z",
     "sortTitle": "homemade naan",
     "key": "homemade naan | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "involved",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3870,9 +4747,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 64,
-    "modifiedAt": "2021-07-11T12:49:15.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.659Z",
     "sortTitle": "homemade ricotta cheese",
     "key": "homemade ricotta cheese | america's test kitchen",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "involved",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3895,9 +4778,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 66,
-    "modifiedAt": "2021-07-11T11:39:53.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.660Z",
     "sortTitle": "hot-smoked whole side of salmon",
     "key": "hot-smoked whole side of salmon | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -3918,9 +4807,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3102,
-    "modifiedAt": "2026-03-07T12:06:37.167Z",
+    "modifiedAt": "2026-04-08T07:05:00.943Z",
     "sortTitle": "houston’s emerald kale salad - molly baz",
     "key": "the club-kopi/houston’s emerald kale salad - molly baz",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3943,9 +4838,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 8937,
-    "modifiedAt": "2025-01-30T10:54:22.807Z",
+    "modifiedAt": "2026-04-08T07:05:00.671Z",
     "sortTitle": "how to make spiced chickpeas – quick spiced chickpeas",
     "key": "how to make spiced chickpeas – quick spiced chickpeas recipe | mob",
+    "mealType": "dinner",
+    "cookTime": "quick",
+    "effort": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3968,9 +4869,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 128,
-    "modifiedAt": "2021-07-12T09:43:06.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.672Z",
     "sortTitle": "huevos rancheros",
     "key": "huevos rancheros | america's test kitchen",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -3993,9 +4900,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 116,
-    "modifiedAt": "2021-07-11T11:37:50.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.674Z",
     "sortTitle": "hung kao mun gati (thai coconut rice)",
     "key": "hung kao mun gati (thai coconut rice) | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -4018,9 +4929,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 68,
-    "modifiedAt": "2021-07-11T11:32:11.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.675Z",
     "sortTitle": "indian-style basmati rice",
     "key": "indian-style basmati rice | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -4042,9 +4957,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 66,
-    "modifiedAt": "2021-07-11T12:39:17.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.676Z",
     "sortTitle": "israeli couscous with radishes and watercress",
     "key": "israeli couscous with radishes and watercress | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4067,9 +4988,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 50,
-    "modifiedAt": "2024-12-20T13:29:05.756Z",
+    "modifiedAt": "2026-04-08T07:05:00.678Z",
     "sortTitle": "julegave — https:www.seriouseats.com:the-food-lab-best-chocolate-chip-cookie-recipe?print",
     "key": "julegave — https:www.seriouseats.com:the-food-lab-best-chocolate-chip-cookie-recipe?print",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4090,9 +5017,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 70,
-    "modifiedAt": "2021-07-11T12:51:53.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.679Z",
     "sortTitle": "kale caesar salad",
     "key": "kale caesar salad | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4116,9 +5049,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 67,
-    "modifiedAt": "2021-07-11T11:38:48.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.679Z",
     "sortTitle": "kimchi bokkeumbap (kimchi fried rice)",
     "key": "kimchi bokkeumbap (kimchi fried rice) | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -4142,9 +5079,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 73,
-    "modifiedAt": "2021-07-11T11:39:14.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.680Z",
     "sortTitle": "kimchi bokkeumbap (kimchi fried rice) for two",
     "key": "kimchi bokkeumbap (kimchi fried rice) for two | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -4165,9 +5106,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 59,
-    "modifiedAt": "2021-07-11T11:37:39.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.681Z",
     "sortTitle": "kimchi-scallion sauce",
     "key": "kimchi-scallion sauce | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4188,9 +5135,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 79,
-    "modifiedAt": "2021-07-12T09:52:07.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.683Z",
     "sortTitle": "koshari",
     "key": "koshari | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -4211,9 +5162,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2485,
-    "modifiedAt": "2024-03-25T12:57:55.796Z",
+    "modifiedAt": "2026-04-08T07:05:00.686Z",
     "sortTitle": "laks",
     "key": "laks",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -4236,9 +5191,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 101,
-    "modifiedAt": "2021-07-12T09:41:07.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.687Z",
     "sortTitle": "lemon layer cake",
     "key": "lemon layer cake | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4261,9 +5222,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 68,
-    "modifiedAt": "2021-07-11T11:31:23.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.689Z",
     "sortTitle": "lemon–olive oil tart",
     "key": "lemon–olive oil tart | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4287,9 +5254,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 66,
-    "modifiedAt": "2021-07-11T12:45:53.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.690Z",
     "sortTitle": "lentil salad with olives, mint, and feta",
     "key": "lentil salad with olives, mint, and feta | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4313,16 +5286,22 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 66,
-    "modifiedAt": "2021-07-12T09:48:56.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.691Z",
     "sortTitle": "maeuntang (korean spicy fish stew)",
     "key": "maeuntang (korean spicy fish stew) | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
     "title": "Mains",
-    "relativePath": "Bon Appétit/Mains.pdf",
-    "href": "Bon%20Appe%CC%81tit/Mains.pdf",
-    "collection": "Bon Appétit",
+    "relativePath": "Bon Appétit/Mains.pdf",
+    "href": "Bon%20App%C3%A9tit/Mains.pdf",
+    "collection": "Bon Appétit",
     "source": "Bon Appetit",
     "sourceDetail": "Bon Appetit",
     "categories": [
@@ -4336,9 +5315,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 7706,
-    "modifiedAt": "2019-11-18T16:13:12.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.433Z",
     "sortTitle": "mains",
     "key": "bon appetit/mains",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -4363,9 +5346,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 61,
-    "modifiedAt": "2021-07-12T09:49:06.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.691Z",
     "sortTitle": "mediterranean couscous salad with smoked trout",
     "key": "mediterranean couscous salad with smoked trout | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -4389,9 +5378,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 60,
-    "modifiedAt": "2021-07-11T11:28:13.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.692Z",
     "sortTitle": "mexican dark chocolate fudge sauce",
     "key": "mexican dark chocolate fudge sauce | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4415,9 +5410,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 74,
-    "modifiedAt": "2021-07-11T11:21:50.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.693Z",
     "sortTitle": "millionaire's shortbread",
     "key": "millionaire's shortbread | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4440,9 +5441,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 124,
-    "modifiedAt": "2021-07-11T12:40:59.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.695Z",
     "sortTitle": "miso-marinated salmon",
     "key": "miso-marinated salmon | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -4466,9 +5473,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 71,
-    "modifiedAt": "2021-07-11T12:36:17.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.764Z",
     "sortTitle": "moroccan fish tagine for two",
     "key": "moroccan fish tagine for two | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -4493,15 +5506,21 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 67,
-    "modifiedAt": "2021-07-12T09:51:54.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.765Z",
     "sortTitle": "moroccan lentil and chickpea soup (harira)",
     "key": "moroccan lentil and chickpea soup (harira) | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
-    "title": "Mushroom & Lentil Ragù",
-    "relativePath": "Mushroom & Lentil Ragù | Mob.pdf",
-    "href": "Mushroom%20%26%20Lentil%20Ragu%CC%80%20%7C%20Mob.pdf",
+    "title": "Mushroom & Lentil Ragù",
+    "relativePath": "Mushroom & Lentil Ragù | Mob.pdf",
+    "href": "Mushroom%20%26%20Lentil%20Rag%C3%B9%20%7C%20Mob.pdf",
     "collection": "Open Shelf",
     "source": "Mob",
     "sourceDetail": "Mob",
@@ -4520,9 +5539,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 106,
-    "modifiedAt": "2025-01-30T10:54:15.073Z",
+    "modifiedAt": "2026-04-08T07:05:00.766Z",
     "sortTitle": "mushroom & lentil ragu",
     "key": "mushroom & lentil ragu | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4545,9 +5570,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 71,
-    "modifiedAt": "2021-07-11T11:20:07.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.768Z",
     "sortTitle": "mushroom farrotto",
     "key": "mushroom farrotto | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4570,9 +5601,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 64,
-    "modifiedAt": "2021-07-12T09:50:21.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.769Z",
     "sortTitle": "mushroom ragu",
     "key": "mushroom ragu | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4595,9 +5632,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 57,
-    "modifiedAt": "2021-07-12T09:44:19.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.770Z",
     "sortTitle": "mushroom risotto",
     "key": "mushroom risotto | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4618,9 +5661,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 60,
-    "modifiedAt": "2021-07-11T12:36:31.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.771Z",
     "sortTitle": "negroni",
     "key": "negroni | cook's illustrated",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -4642,9 +5689,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 72,
-    "modifiedAt": "2021-07-12T09:45:16.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.772Z",
     "sortTitle": "new england clam chowder",
     "key": "new england clam chowder | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -4667,9 +5720,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 224,
-    "modifiedAt": "2021-07-11T12:38:16.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.774Z",
     "sortTitle": "new york bagels",
     "key": "new york bagels | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4690,9 +5749,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 70,
-    "modifiedAt": "2021-07-11T11:27:57.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.775Z",
     "sortTitle": "nut-free chewy granola bars",
     "key": "nut-free chewy granola bars | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4713,9 +5778,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 176,
-    "modifiedAt": "2021-07-11T12:46:36.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.776Z",
     "sortTitle": "oatmeal muffins",
     "key": "oatmeal muffins | america's test kitchen",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4738,9 +5809,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 118,
-    "modifiedAt": "2021-07-12T09:41:48.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.778Z",
     "sortTitle": "old-fashioned chocolate layer cake",
     "key": "old-fashioned chocolate layer cake | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4765,9 +5842,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 166,
-    "modifiedAt": "2026-02-22T17:12:29.415Z",
+    "modifiedAt": "2026-04-08T07:05:00.699Z",
     "sortTitle": "one-pot fish biryani",
     "key": "mob/one-pot fish biryani recipe | mob",
+    "mealType": "dinner",
+    "cookTime": "quick",
+    "effort": "easy",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -4793,9 +5876,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3459,
-    "modifiedAt": "2026-02-22T17:13:29.007Z",
+    "modifiedAt": "2026-04-08T07:05:00.760Z",
     "sortTitle": "one-pot miso butter cod & rice",
     "key": "mob/one-pot miso butter cod & rice | mob",
+    "mealType": "any",
+    "cookTime": "quick",
+    "effort": "easy",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -4818,9 +5907,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 87,
-    "modifiedAt": "2021-07-11T11:33:07.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.779Z",
     "sortTitle": "oven-steamed fish with scallions and ginger for two",
     "key": "oven-steamed fish with scallions and ginger for two | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -4842,9 +5937,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 138,
-    "modifiedAt": "2021-07-11T11:40:06.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.780Z",
     "sortTitle": "pajeon (korean scallion pancake)",
     "key": "pajeon (korean scallion pancake) | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4869,9 +5970,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 87,
-    "modifiedAt": "2021-07-11T12:32:38.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.781Z",
     "sortTitle": "palak dal (spinach dal with cumin and mustard seeds)",
     "key": "palak dal (spinach dal with cumin and mustard seeds) | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4894,9 +6001,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 52,
-    "modifiedAt": "2021-07-11T11:20:54.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.782Z",
     "sortTitle": "pan-seared salmon",
     "key": "pan-seared salmon | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -4919,9 +6032,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 76,
-    "modifiedAt": "2021-07-11T12:37:25.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.783Z",
     "sortTitle": "pan-seared scallops",
     "key": "pan-seared scallops | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -4944,9 +6063,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 53,
-    "modifiedAt": "2021-07-12T09:43:54.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.785Z",
     "sortTitle": "pan-seared sesame-crusted tuna steaks",
     "key": "pan-seared sesame-crusted tuna steaks | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -4968,9 +6093,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 61,
-    "modifiedAt": "2021-07-11T11:31:56.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.786Z",
     "sortTitle": "pan-steamed asparagus with mint and almonds",
     "key": "pan-steamed asparagus with mint and almonds | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -4993,9 +6124,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 98,
-    "modifiedAt": "2021-07-12T09:29:33.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.786Z",
     "sortTitle": "pasta alla norma",
     "key": "pasta alla norma | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -5020,9 +6155,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 72,
-    "modifiedAt": "2021-07-11T12:40:42.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.787Z",
     "sortTitle": "pasta e ceci (pasta with chickpeas)",
     "key": "pasta e ceci (pasta with chickpeas) | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5048,9 +6189,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 67,
-    "modifiedAt": "2021-07-11T12:43:11.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.788Z",
     "sortTitle": "pasta with tomato and almond pesto (pesto alla trapanese)",
     "key": "pasta with tomato and almond pesto (pesto alla trapanese) | america's test kitchen",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5073,9 +6220,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 4987,
-    "modifiedAt": "2026-03-07T12:04:56.375Z",
+    "modifiedAt": "2026-04-08T07:05:00.953Z",
     "sortTitle": "pecan apple raggle pie - molly baz",
     "key": "the club-kopi/pecan apple raggle pie - molly baz",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5098,9 +6251,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 60,
-    "modifiedAt": "2021-07-12T09:41:36.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.788Z",
     "sortTitle": "penne alla vodka",
     "key": "penne alla vodka | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -5123,9 +6280,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 68,
-    "modifiedAt": "2021-07-11T12:41:10.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.789Z",
     "sortTitle": "penne arrabbiata",
     "key": "penne arrabbiata | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -5148,9 +6309,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 207,
-    "modifiedAt": "2021-07-11T12:42:57.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.790Z",
     "sortTitle": "perfect chocolate chip cookies",
     "key": "perfect chocolate chip cookies | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "involved",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5171,9 +6338,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 75,
-    "modifiedAt": "2021-07-12T09:48:06.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.791Z",
     "sortTitle": "perfect pesto",
     "key": "perfect pesto | cook's country",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "involved",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5198,9 +6371,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 64,
-    "modifiedAt": "2021-07-11T12:34:09.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.792Z",
     "sortTitle": "pesce all'acqua pazza (southern italian poached fish) with pasta",
     "key": "pesce all'acqua pazza (southern italian poached fish) with pasta | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -5221,9 +6400,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3281,
-    "modifiedAt": "2026-02-02T10:48:59.594Z",
+    "modifiedAt": "2026-04-08T07:05:00.310Z",
     "sortTitle": "pesto pantesco",
     "key": "adip/pesto pantesco - by jesse jenkins - kitchen studio",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5244,9 +6429,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 7768,
-    "modifiedAt": "2026-03-07T12:05:09.988Z",
+    "modifiedAt": "2026-04-08T07:05:00.979Z",
     "sortTitle": "phyllo wrapped tortilla espagnola - molly baz",
     "key": "the club-kopi/phyllo wrapped tortilla espagnola - molly baz",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5267,9 +6458,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 51,
-    "modifiedAt": "2021-07-12T09:49:33.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.793Z",
     "sortTitle": "pickled ginger",
     "key": "pickled ginger | america's test kitchen",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 2
   },
   {
@@ -5290,15 +6487,21 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 64,
-    "modifiedAt": "2021-07-12T09:46:29.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.794Z",
     "sortTitle": "pickled ginger",
     "key": "pickled ginger | cook's country",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 2
   },
   {
-    "title": "Pickled Jalapeños",
-    "relativePath": "Pickled Jalapeños | America's Test Kitchen.pdf",
-    "href": "Pickled%20Jalapen%CC%83os%20%7C%20America's%20Test%20Kitchen.pdf",
+    "title": "Pickled Jalapeños",
+    "relativePath": "Pickled Jalapeños | America's Test Kitchen.pdf",
+    "href": "Pickled%20Jalape%C3%B1os%20%7C%20America's%20Test%20Kitchen.pdf",
     "collection": "Open Shelf",
     "source": "America's Test Kitchen",
     "sourceDetail": "America's Test Kitchen",
@@ -5313,9 +6516,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 58,
-    "modifiedAt": "2021-07-12T09:49:43.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.794Z",
     "sortTitle": "pickled jalapenos",
     "key": "pickled jalapenos | america's test kitchen",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5336,9 +6545,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 8913,
-    "modifiedAt": "2026-03-04T11:58:42.634Z",
+    "modifiedAt": "2026-04-08T07:05:00.990Z",
     "sortTitle": "pistachio & ricotta swirl cake - molly baz",
     "key": "the club-kopi/pistachio & ricotta swirl cake - molly baz",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5359,9 +6574,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 81,
-    "modifiedAt": "2021-07-11T12:35:46.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.795Z",
     "sortTitle": "pistachio financiers",
     "key": "pistachio financiers | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5382,9 +6603,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2009,
-    "modifiedAt": "2026-03-07T12:04:50.379Z",
+    "modifiedAt": "2026-04-08T07:05:01.001Z",
     "sortTitle": "pistachio halva rose granola - molly baz",
     "key": "the club-kopi/pistachio halva rose granola - molly baz",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5407,9 +6634,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 856,
-    "modifiedAt": "2021-07-11T11:29:28.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.796Z",
     "sortTitle": "pita bread",
     "key": "pita bread | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5432,9 +6665,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 116,
-    "modifiedAt": "2021-07-12T09:40:53.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.797Z",
     "sortTitle": "pizza bianca",
     "key": "pizza bianca | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5458,9 +6697,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 150,
-    "modifiedAt": "2021-07-11T12:44:42.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.798Z",
     "sortTitle": "potato gnocchi with browned butter and sage",
     "key": "potato gnocchi with browned butter and sage | america's test kitchen",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5482,9 +6727,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 165,
-    "modifiedAt": "2021-07-12T09:29:17.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.799Z",
     "sortTitle": "potato roesti",
     "key": "potato roesti | america's test kitchen",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -5507,9 +6758,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 51,
-    "modifiedAt": "2021-07-11T11:32:27.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.800Z",
     "sortTitle": "preserved lemon aioli",
     "key": "preserved lemon aioli | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "long",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5532,9 +6789,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 129,
-    "modifiedAt": "2021-07-11T11:37:28.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.802Z",
     "sortTitle": "preserved lemons",
     "key": "preserved lemons | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "long",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -5555,9 +6816,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 78,
-    "modifiedAt": "2021-07-11T12:37:37.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.802Z",
     "sortTitle": "provencal vegetable soup (soupe au pistou)",
     "key": "provencal vegetable soup (soupe au pistou) | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -5583,9 +6848,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 1436,
-    "modifiedAt": "2023-10-22T10:11:58.045Z",
+    "modifiedAt": "2026-04-08T07:05:00.805Z",
     "sortTitle": "puy lentil and aubergine stew",
     "key": "puy lentil and aubergine stew",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5611,9 +6882,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 1892,
-    "modifiedAt": "2024-02-11T14:02:09.289Z",
+    "modifiedAt": "2026-04-08T07:05:00.808Z",
     "sortTitle": "puy lentils with aubergine, tomatoes and yoghurt",
     "key": "puy lentils with aubergine, tomatoes and yoghurt",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5635,9 +6912,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 65,
-    "modifiedAt": "2021-07-11T12:51:20.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.809Z",
     "sortTitle": "quinoa and vegetable stew",
     "key": "quinoa and vegetable stew | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -5662,9 +6943,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 68,
-    "modifiedAt": "2021-07-12T09:46:56.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.810Z",
     "sortTitle": "red lentil and squash soup",
     "key": "red lentil and squash soup | cook's country",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5688,9 +6975,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 254,
-    "modifiedAt": "2021-07-11T12:41:25.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.812Z",
     "sortTitle": "red lentil soup with warm spices",
     "key": "red lentil soup with warm spices | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5713,9 +7006,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3914,
-    "modifiedAt": "2024-02-22T09:35:50.354Z",
+    "modifiedAt": "2026-04-08T07:05:00.817Z",
     "sortTitle": "red snapper & melon ceviche",
     "key": "red snapper & melon ceviche",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -5738,9 +7037,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 217,
-    "modifiedAt": "2021-07-11T12:46:10.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.819Z",
     "sortTitle": "rich chocolate tart",
     "key": "rich chocolate tart | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5762,9 +7067,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 68,
-    "modifiedAt": "2021-07-11T12:30:08.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.820Z",
     "sortTitle": "roasted asparagus",
     "key": "roasted asparagus | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5787,9 +7098,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 217,
-    "modifiedAt": "2023-10-22T10:11:57.377Z",
+    "modifiedAt": "2026-04-08T07:05:00.821Z",
     "sortTitle": "roasted beetroot with yoghurt and preserved lemon",
     "key": "roasted beetroot with yoghurt and preserved lemon",
+    "mealType": "dinner",
+    "cookTime": "long",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5813,9 +7130,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 4858,
-    "modifiedAt": "2026-02-02T10:48:35.105Z",
+    "modifiedAt": "2026-04-08T07:05:00.332Z",
     "sortTitle": "roasted cabbage pot pie",
     "key": "adip/roasted cabbage pot pie - by jesse jenkins - kitchen studio",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5836,9 +7159,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 80,
-    "modifiedAt": "2021-07-11T11:39:05.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.822Z",
     "sortTitle": "roasted fennel with spiced cashews",
     "key": "roasted fennel with spiced cashews | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5859,9 +7188,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 58,
-    "modifiedAt": "2021-07-12T09:46:44.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.823Z",
     "sortTitle": "roasted garlic–soy sauce dressing",
     "key": "roasted garlic–soy sauce dressing | cook's country",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5884,9 +7219,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 77,
-    "modifiedAt": "2021-07-11T12:52:03.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.824Z",
     "sortTitle": "roasted poblano and black bean enchiladas",
     "key": "roasted poblano and black bean enchiladas | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5908,9 +7249,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 73,
-    "modifiedAt": "2021-07-11T11:39:33.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.824Z",
     "sortTitle": "roasted radishes with yogurt-tahini sauce",
     "key": "roasted radishes with yogurt-tahini sauce | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -5933,9 +7280,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 55,
-    "modifiedAt": "2021-07-11T11:27:26.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.828Z",
     "sortTitle": "roasted whole side of salmon",
     "key": "roasted whole side of salmon | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -5958,9 +7311,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2003,
-    "modifiedAt": "2024-12-31T14:45:17.882Z",
+    "modifiedAt": "2026-04-08T07:05:00.827Z",
     "sortTitle": "roasted whole side of salmon _ america's test kitchen recipe copy",
     "key": "roasted whole side of salmon _ america's test kitchen recipe copy",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -5984,9 +7343,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 14442,
-    "modifiedAt": "2025-01-30T10:54:42.194Z",
+    "modifiedAt": "2026-04-08T07:05:00.845Z",
     "sortTitle": "romesco chickpeas",
     "key": "romesco chickpeas | mob",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6009,9 +7374,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2478,
-    "modifiedAt": "2024-02-22T09:35:39.792Z",
+    "modifiedAt": "2026-04-08T07:05:00.849Z",
     "sortTitle": "salmon roe beurre blanc",
     "key": "salmon roe beurre blanc",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -6034,9 +7405,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 4554,
-    "modifiedAt": "2024-02-22T09:34:43.788Z",
+    "modifiedAt": "2026-04-08T07:05:00.855Z",
     "sortTitle": "salmon with ponzu and cilantro oil",
     "key": "salmon with ponzu and cilantro oil",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -6061,9 +7438,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 75,
-    "modifiedAt": "2021-07-11T10:41:40.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.857Z",
     "sortTitle": "salted bourbon caramel–cured egg yolks with vanilla ice cream",
     "key": "salted bourbon caramel–cured egg yolks with vanilla ice cream",
+    "mealType": "dessert",
+    "cookTime": "long",
+    "effort": "involved",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6085,9 +7468,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 1620,
-    "modifiedAt": "2026-03-07T12:06:07.064Z",
+    "modifiedAt": "2026-04-08T07:05:00.961Z",
     "sortTitle": "salty honey pumpkin pie - molly baz",
     "key": "the club-kopi/salty honey pumpkin pie - molly baz",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6109,9 +7498,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 1791,
-    "modifiedAt": "2026-03-07T12:06:01.187Z",
+    "modifiedAt": "2026-04-08T07:05:00.933Z",
     "sortTitle": "salty honey ricotta cheesecake - molly baz",
     "key": "the club-kopi/salty honey ricotta cheesecake - molly baz",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6132,9 +7527,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 60,
-    "modifiedAt": "2021-07-11T11:36:34.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.858Z",
     "sortTitle": "sauce verte",
     "key": "sauce verte | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6158,9 +7559,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 4389,
-    "modifiedAt": "2024-02-22T09:35:59.791Z",
+    "modifiedAt": "2026-04-08T07:05:00.863Z",
     "sortTitle": "scallop crudo with prickly pear",
     "key": "scallop crudo with prickly pear",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -6183,9 +7590,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 130,
-    "modifiedAt": "2021-07-11T12:36:46.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.873Z",
     "sortTitle": "semolina gnocchi (gnocchi alla romana)",
     "key": "semolina gnocchi (gnocchi alla romana) | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -6209,9 +7620,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2586,
-    "modifiedAt": "2026-03-07T12:06:18.810Z",
+    "modifiedAt": "2026-04-08T07:05:00.947Z",
     "sortTitle": "sesame buttermilk biscuits with chive butter - molly baz",
     "key": "the club-kopi/sesame buttermilk biscuits with chive butter - molly baz",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6232,9 +7649,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 5987,
-    "modifiedAt": "2026-02-02T10:48:27.936Z",
+    "modifiedAt": "2026-04-08T07:05:00.340Z",
     "sortTitle": "shallot tarte tatin",
     "key": "adip/shallot tarte tatin - by jesse jenkins - kitchen studio",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6258,9 +7681,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 66,
-    "modifiedAt": "2021-07-11T11:22:44.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.874Z",
     "sortTitle": "shiitake mushroom frittata with pecorino romano",
     "key": "shiitake mushroom frittata with pecorino romano | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6283,9 +7712,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 66,
-    "modifiedAt": "2024-02-07T16:25:53.168Z",
+    "modifiedAt": "2026-04-08T07:05:00.876Z",
     "sortTitle": "shockingly easy no-knead focaccia",
     "key": "shockingly easy no-knead focaccia",
+    "mealType": "dinner",
+    "cookTime": "quick",
+    "effort": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6309,9 +7744,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3417,
-    "modifiedAt": "2024-02-22T09:34:48.645Z",
+    "modifiedAt": "2026-04-08T07:05:00.881Z",
     "sortTitle": "shrimp dumplings w_ old bay broth",
     "key": "shrimp dumplings w_ old bay broth",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -6334,16 +7775,22 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 319,
-    "modifiedAt": "2021-07-12T09:42:33.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.882Z",
     "sortTitle": "shrimp potstickers",
     "key": "shrimp potstickers | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
     "title": "Sides",
-    "relativePath": "Bon Appétit/Sides.pdf",
-    "href": "Bon%20Appe%CC%81tit/Sides.pdf",
-    "collection": "Bon Appétit",
+    "relativePath": "Bon Appétit/Sides.pdf",
+    "href": "Bon%20App%C3%A9tit/Sides.pdf",
+    "collection": "Bon Appétit",
     "source": "Bon Appetit",
     "sourceDetail": "Bon Appetit",
     "categories": [
@@ -6357,9 +7804,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 10513,
-    "modifiedAt": "2019-11-18T16:13:39.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.452Z",
     "sortTitle": "sides",
     "key": "bon appetit/sides",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -6380,9 +7831,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 52,
-    "modifiedAt": "2021-07-11T11:24:01.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.884Z",
     "sortTitle": "simple hot sauce",
     "key": "simple hot sauce | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "quick",
+    "effort": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6403,9 +7860,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 54,
-    "modifiedAt": "2021-07-11T12:39:06.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.885Z",
     "sortTitle": "simple israeli couscous",
     "key": "simple israeli couscous | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "quick",
+    "effort": "easy",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -6428,9 +7889,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 6997,
-    "modifiedAt": "2026-02-02T10:48:43.242Z",
+    "modifiedAt": "2026-04-08T07:05:00.356Z",
     "sortTitle": "sole meuniere",
     "key": "adip/sole meuniere - by jesse jenkins - kitchen studio",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -6453,9 +7920,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 80,
-    "modifiedAt": "2021-07-11T12:49:43.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.891Z",
     "sortTitle": "sourdough starter",
     "key": "sourdough starter | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "long",
+    "effort": "involved",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6478,9 +7951,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 166,
-    "modifiedAt": "2021-07-11T11:31:11.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.892Z",
     "sortTitle": "spanish-spiced roasted chickpeas",
     "key": "spanish-spiced roasted chickpeas | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6503,9 +7982,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 62,
-    "modifiedAt": "2021-07-12T09:47:55.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.894Z",
     "sortTitle": "spiced chickpeas gyros with tahini yogurt",
     "key": "spiced chickpeas gyros with tahini yogurt | cook's country",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6529,9 +8014,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3884,
-    "modifiedAt": "2024-02-22T09:36:15.549Z",
+    "modifiedAt": "2026-04-08T07:05:00.899Z",
     "sortTitle": "squash blossoms filled with crab meat",
     "key": "squash blossoms filled with crab meat",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -6556,9 +8047,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3007,
-    "modifiedAt": "2024-02-22T09:35:22.055Z",
+    "modifiedAt": "2026-04-08T07:05:00.903Z",
     "sortTitle": "squash cremeux with shortbread cookies",
     "key": "squash cremeux with shortbread cookies",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6579,9 +8076,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3678,
-    "modifiedAt": "2024-02-22T09:35:28.017Z",
+    "modifiedAt": "2026-04-08T07:05:00.909Z",
     "sortTitle": "squash palabok",
     "key": "squash palabok",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6602,9 +8105,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 120,
-    "modifiedAt": "2021-07-11T12:36:58.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.910Z",
     "sortTitle": "sriracha",
     "key": "sriracha | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -6627,9 +8134,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 43,
-    "modifiedAt": "2021-07-11T11:26:22.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.911Z",
     "sortTitle": "steamed white rice",
     "key": "steamed white rice | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -6652,9 +8163,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 131,
-    "modifiedAt": "2021-07-11T12:38:03.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.912Z",
     "sortTitle": "steamed whole lobsters",
     "key": "steamed whole lobsters | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -6675,9 +8192,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 147,
-    "modifiedAt": "2021-07-11T12:34:25.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.914Z",
     "sortTitle": "sticky buns",
     "key": "sticky buns | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6698,9 +8221,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 5516,
-    "modifiedAt": "2024-02-22T09:34:35.147Z",
+    "modifiedAt": "2026-04-08T07:05:00.921Z",
     "sortTitle": "sticky hoshigaki pudding with coconut syrup",
     "key": "sticky hoshigaki pudding with coconut syrup",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6723,9 +8252,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 191,
-    "modifiedAt": "2021-07-11T12:49:29.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.923Z",
     "sortTitle": "strawberry-rhubarb pie",
     "key": "strawberry-rhubarb pie | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6749,9 +8284,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 98,
-    "modifiedAt": "2026-02-22T17:13:46.488Z",
+    "modifiedAt": "2026-04-08T07:05:00.702Z",
     "sortTitle": "super green spiced halloumi & rice",
     "key": "mob/super green spiced halloumi & rice | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -6775,9 +8314,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 71,
-    "modifiedAt": "2021-07-11T12:49:04.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.924Z",
     "sortTitle": "super greens soup with lemon-tarragon cream",
     "key": "super greens soup with lemon-tarragon cream | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6800,9 +8345,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 52,
-    "modifiedAt": "2021-07-11T11:34:59.000Z",
+    "modifiedAt": "2026-04-08T07:05:00.925Z",
     "sortTitle": "sushi rice",
     "key": "sushi rice | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -6825,9 +8374,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 8175,
-    "modifiedAt": "2026-02-22T17:14:58.810Z",
+    "modifiedAt": "2026-04-08T07:05:00.711Z",
     "sortTitle": "sweet potatoes with satay chickpeas",
     "key": "mob/sweet potatoes with satay chickpeas | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6851,9 +8406,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 9079,
-    "modifiedAt": "2026-02-02T10:49:06.807Z",
+    "modifiedAt": "2026-04-08T07:05:00.321Z",
     "sortTitle": "tenderstem broccoli and jalapeno pesto",
     "key": "adip/tenderstem broccoli and jalapeno pesto - by jesse jenkins",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6874,9 +8435,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 191,
-    "modifiedAt": "2021-07-11T12:48:52.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.003Z",
     "sortTitle": "thick-cut sweet potato fries",
     "key": "thick-cut sweet potato fries | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -6900,9 +8465,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 156,
-    "modifiedAt": "2026-02-22T17:11:19.412Z",
+    "modifiedAt": "2026-04-08T07:05:00.697Z",
     "sortTitle": "tikka halloumi & curried lentils",
     "key": "mob/tikka halloumi & curried lentils | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 2
   },
   {
@@ -6926,9 +8497,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 2707,
-    "modifiedAt": "2025-01-30T10:53:47.172Z",
+    "modifiedAt": "2026-04-08T07:05:01.007Z",
     "sortTitle": "tikka halloumi & curried lentils",
     "key": "tikka halloumi & curried lentils | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 2
   },
   {
@@ -6949,9 +8526,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 115,
-    "modifiedAt": "2021-07-12T09:32:13.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.008Z",
     "sortTitle": "tiramisu",
     "key": "tiramisu | america's test kitchen",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -6972,9 +8555,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 77,
-    "modifiedAt": "2021-07-12T09:29:49.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.009Z",
     "sortTitle": "torta caprese",
     "key": "torta caprese | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -6998,9 +8585,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3610,
-    "modifiedAt": "2024-02-22T09:35:35.583Z",
+    "modifiedAt": "2026-04-08T07:05:01.014Z",
     "sortTitle": "trout with brown butter and grapes",
     "key": "trout with brown butter and grapes",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -7026,9 +8619,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 1992,
-    "modifiedAt": "2026-02-22T17:12:18.772Z",
+    "modifiedAt": "2026-04-08T07:05:00.732Z",
     "sortTitle": "tuna & green bean chopped salad",
     "key": "mob/tuna & green bean chopped salad | mob",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -7052,9 +8651,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 4291,
-    "modifiedAt": "2024-02-22T09:36:10.344Z",
+    "modifiedAt": "2026-04-08T07:05:01.019Z",
     "sortTitle": "tuna tartare w. chips",
     "key": "tuna tartare w. chips",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -7078,9 +8683,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 65,
-    "modifiedAt": "2021-07-12T09:28:24.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.021Z",
     "sortTitle": "ultimate cream of tomato soup",
     "key": "ultimate cream of tomato soup | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "involved",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7104,9 +8715,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 221,
-    "modifiedAt": "2021-07-12T09:30:39.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.022Z",
     "sortTitle": "ultimate flaky buttermilk biscuits",
     "key": "ultimate flaky buttermilk biscuits | america's test kitchen",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "involved",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7130,9 +8747,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 75,
-    "modifiedAt": "2021-07-12T09:28:06.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.023Z",
     "sortTitle": "ultracreamy hummus",
     "key": "ultracreamy hummus | america's test kitchen",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7156,9 +8779,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 78,
-    "modifiedAt": "2021-07-11T11:35:59.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.023Z",
     "sortTitle": "ultracreamy hummus with spiced walnut topping",
     "key": "ultracreamy hummus with spiced walnut topping | cook's illustrated",
+    "mealType": "snack",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7179,9 +8808,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 138,
-    "modifiedAt": "2021-07-11T11:38:39.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.024Z",
     "sortTitle": "ultranutty pecan bars",
     "key": "ultranutty pecan bars | cook's illustrated",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7202,9 +8837,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 1343,
-    "modifiedAt": "2026-03-07T12:05:55.867Z",
+    "modifiedAt": "2026-04-08T07:05:00.938Z",
     "sortTitle": "upside down olive (oil) cake - molly baz",
     "key": "the club-kopi/upside down olive (oil) cake - molly baz",
+    "mealType": "dessert",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7228,9 +8869,16 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 78,
-    "modifiedAt": "2021-07-11T12:51:31.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.025Z",
     "sortTitle": "vegan pinto bean–beet burgers",
     "key": "vegan pinto bean–beet burgers | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7256,9 +8904,16 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 63,
-    "modifiedAt": "2021-07-12T09:50:31.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.025Z",
     "sortTitle": "vegan udon noodles with mustard greens and shiitake-ginger sauce",
     "key": "vegan udon noodles with mustard greens and shiitake-ginger sauce | america's test kitchen",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7280,9 +8935,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 179,
-    "modifiedAt": "2021-07-11T12:37:10.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.026Z",
     "sortTitle": "vegetable broth base",
     "key": "vegetable broth base | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7306,9 +8967,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 72,
-    "modifiedAt": "2021-07-12T09:44:06.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.027Z",
     "sortTitle": "vegetarian black bean soup",
     "key": "vegetarian black bean soup | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7333,9 +9000,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 174,
-    "modifiedAt": "2021-07-11T12:44:05.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.027Z",
     "sortTitle": "vegetarian cuban-style black beans and rice (moros y cristianos)",
     "key": "vegetarian cuban-style black beans and rice (moros y cristianos) | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7358,9 +9031,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 71,
-    "modifiedAt": "2021-07-11T11:25:47.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.028Z",
     "sortTitle": "vegetarian mapo tofu",
     "key": "vegetarian mapo tofu | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7385,9 +9064,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 57,
-    "modifiedAt": "2021-07-11T12:41:39.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.029Z",
     "sortTitle": "vegetarian ramen with shiitakes and soft eggs",
     "key": "vegetarian ramen with shiitakes and soft eggs | cook's country",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7408,9 +9093,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 79,
-    "modifiedAt": "2021-07-11T12:50:54.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.029Z",
     "sortTitle": "walkaway ratatouille",
     "key": "walkaway ratatouille | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7433,9 +9124,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 73,
-    "modifiedAt": "2021-07-11T11:37:06.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.031Z",
     "sortTitle": "watermelon salad with cotija and serrano chiles",
     "key": "watermelon salad with cotija and serrano chiles | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7456,9 +9153,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 78,
-    "modifiedAt": "2021-07-11T12:29:52.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.031Z",
     "sortTitle": "whole-grain mustard",
     "key": "whole-grain mustard | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7481,9 +9184,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 70,
-    "modifiedAt": "2021-07-11T11:29:00.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.032Z",
     "sortTitle": "whole-wheat pita bread",
     "key": "whole-wheat pita bread | cook's illustrated",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7508,9 +9217,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 144,
-    "modifiedAt": "2021-07-11T12:46:23.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.033Z",
     "sortTitle": "wild rice and mushroom soup",
     "key": "wild rice and mushroom soup | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7533,9 +9248,13 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 164,
-    "modifiedAt": "2021-07-12T09:44:59.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.033Z",
     "sortTitle": "wild rice pilaf with pecans and dried cranberries",
     "key": "wild rice pilaf with pecans and dried cranberries | america's test kitchen",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
@@ -7557,15 +9276,19 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3839,
-    "modifiedAt": "2024-02-22T09:36:34.905Z",
+    "modifiedAt": "2026-04-08T07:05:01.038Z",
     "sortTitle": "wonton noodle soup",
     "key": "wonton noodle soup",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [],
     "versions": 1
   },
   {
-    "title": "Xīhóngshì Chao Jīdàn (Chinese Stir-Fried Tomatoes and Eggs)",
-    "relativePath": "Xīhóngshì Chao Jīdàn (Chinese Stir-Fried Tomatoes and Eggs) | Cook's Illustrated.pdf",
-    "href": "Xi%CC%84ho%CC%81ngshi%CC%80%20Chao%20Ji%CC%84da%CC%80n%20(Chinese%20Stir-Fried%20Tomatoes%20and%20Eggs)%20%7C%20Cook's%20Illustrated.pdf",
+    "title": "Xīhóngshì Chao Jīdàn (Chinese Stir-Fried Tomatoes and Eggs)",
+    "relativePath": "Xīhóngshì Chao Jīdàn (Chinese Stir-Fried Tomatoes and Eggs) | Cook's Illustrated.pdf",
+    "href": "X%C4%ABh%C3%B3ngsh%C3%AC%20Chao%20J%C4%ABd%C3%A0n%20(Chinese%20Stir-Fried%20Tomatoes%20and%20Eggs)%20%7C%20Cook's%20Illustrated.pdf",
     "collection": "Open Shelf",
     "source": "Cook's Illustrated",
     "sourceDetail": "Cook's Illustrated",
@@ -7584,9 +9307,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 62,
-    "modifiedAt": "2021-07-11T11:37:59.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.039Z",
     "sortTitle": "xihongshi chao jidan (chinese stir-fried tomatoes and eggs)",
     "key": "xihongshi chao jidan (chinese stir-fried tomatoes and eggs) | cook's illustrated",
+    "mealType": "breakfast",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   },
   {
@@ -7609,9 +9338,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 3443,
-    "modifiedAt": "2024-02-22T09:34:39.267Z",
+    "modifiedAt": "2026-04-08T07:05:01.044Z",
     "sortTitle": "yellow fish curry",
     "key": "yellow fish curry",
+    "mealType": "dinner",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "pescatarian"
+    ],
     "versions": 1
   },
   {
@@ -7632,9 +9367,15 @@ window.RECIPES = [
     "isHighProtein": false,
     "proteinPerServingG": null,
     "fileSizeKb": 45,
-    "modifiedAt": "2021-07-11T11:26:03.000Z",
+    "modifiedAt": "2026-04-08T07:05:01.045Z",
     "sortTitle": "za'atar",
     "key": "za'atar | cook's illustrated",
+    "mealType": "any",
+    "cookTime": "medium",
+    "effort": "medium",
+    "dietary": [
+      "vegetarian"
+    ],
     "versions": 1
   }
 ];

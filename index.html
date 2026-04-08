@@ -22,6 +22,54 @@
 
       <main class="layout">
         <aside class="sidebar">
+          <!-- Quick Start: Guided Flow -->
+          <section class="panel panel-guided">
+            <div class="section-heading">
+              <h2>What are you making?</h2>
+            </div>
+            <div class="guided-buttons" id="meal-type-buttons">
+              <button class="guided-btn" data-meal="dinner" type="button">Dinner</button>
+              <button class="guided-btn" data-meal="lunch" type="button">Lunch</button>
+              <button class="guided-btn" data-meal="breakfast" type="button">Breakfast</button>
+              <button class="guided-btn" data-meal="dessert" type="button">Dessert</button>
+            </div>
+          </section>
+
+          <section class="panel panel-guided">
+            <div class="section-heading">
+              <h2>How much time?</h2>
+            </div>
+            <div class="guided-buttons" id="time-buttons">
+              <button class="guided-btn" data-time="quick" type="button">Quick &lt;30m</button>
+              <button class="guided-btn" data-time="medium" type="button">Normal</button>
+              <button class="guided-btn" data-time="long" type="button">I have time</button>
+            </div>
+          </section>
+
+          <section class="panel panel-guided">
+            <div class="section-heading">
+              <h2>Preferences</h2>
+            </div>
+            <div class="guided-buttons" id="preference-buttons">
+              <button class="guided-btn" data-dietary="vegetarian" type="button">Vegetarian</button>
+              <button class="guided-btn" data-dietary="pescatarian" type="button">Pescatarian</button>
+              <button class="guided-btn" data-protein="true" type="button">High Protein</button>
+            </div>
+          </section>
+
+          <!-- Smart Presets -->
+          <section class="panel panel-presets">
+            <div class="section-heading">
+              <h2>Quick picks</h2>
+            </div>
+            <div class="preset-buttons" id="preset-buttons">
+              <button class="preset-btn" data-preset="weeknight" type="button">Quick weeknight dinner</button>
+              <button class="preset-btn" data-preset="mealprep" type="button">Meal prep friendly</button>
+              <button class="preset-btn" data-preset="impressive" type="button">Something impressive</button>
+              <button class="preset-btn" data-preset="comfort" type="button">Comfort food</button>
+            </div>
+          </section>
+
           <section class="panel">
             <label class="search-label" for="search-input">Search recipes</label>
             <div class="search-wrap">
@@ -35,7 +83,7 @@
             </div>
             <div class="toolbar">
               <button class="button button-ghost" id="clear-filters" type="button">
-                Clear filters
+                Clear all
               </button>
               <button class="button button-accent" id="random-pick" type="button">
                 Surprise me
@@ -47,47 +95,38 @@
             </label>
           </section>
 
-          <section class="panel">
-            <div class="section-heading">
-              <h2>Categories</h2>
-            </div>
-            <div class="filter-group" id="category-filters"></div>
-          </section>
+          <!-- Collapsible: More Filters -->
+          <details class="more-filters">
+            <summary class="panel panel-summary">More filters</summary>
 
-          <section class="panel">
-            <div class="section-heading">
-              <h2>Sources</h2>
-            </div>
-            <div class="filter-group" id="source-filters"></div>
-          </section>
+            <section class="panel">
+              <div class="section-heading">
+                <h2>Categories</h2>
+              </div>
+              <div class="filter-group" id="category-filters"></div>
+            </section>
 
-          <section class="panel">
-            <div class="section-heading">
-              <h2>Collections</h2>
-            </div>
-            <div class="filter-group" id="collection-filters"></div>
-          </section>
+            <section class="panel">
+              <div class="section-heading">
+                <h2>Sources</h2>
+              </div>
+              <div class="filter-group" id="source-filters"></div>
+            </section>
 
-          <section class="panel">
-            <div class="section-heading">
-              <h2>Focus</h2>
-            </div>
-            <div class="filter-group" id="focus-filters"></div>
-          </section>
+            <section class="panel">
+              <div class="section-heading">
+                <h2>Focus</h2>
+              </div>
+              <div class="filter-group" id="focus-filters"></div>
+            </section>
 
-          <section class="panel">
-            <div class="section-heading">
-              <h2>Tags</h2>
-            </div>
-            <div class="filter-group" id="tag-filters"></div>
-          </section>
-
-          <section class="panel">
-            <div class="section-heading">
-              <h2>Ingredients</h2>
-            </div>
-            <div class="filter-group" id="ingredient-filters"></div>
-          </section>
+            <section class="panel">
+              <div class="section-heading">
+                <h2>Ingredients</h2>
+              </div>
+              <div class="filter-group" id="ingredient-filters"></div>
+            </section>
+          </details>
         </aside>
 
         <section class="content">

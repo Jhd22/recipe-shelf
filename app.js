@@ -16,9 +16,7 @@
     emptyState: document.getElementById("empty-state"),
     categoryFilters: document.getElementById("category-filters"),
     sourceFilters: document.getElementById("source-filters"),
-    collectionFilters: document.getElementById("collection-filters"),
     focusFilters: document.getElementById("focus-filters"),
-    tagFilters: document.getElementById("tag-filters"),
     ingredientFilters: document.getElementById("ingredient-filters"),
     modal: document.getElementById("recipe-modal"),
     modalCategory: document.getElementById("modal-category"),
@@ -38,6 +36,12 @@
     sort: "recommended",
     selectedRecipeKey: null,
     favorites: loadFavorites(),
+    // Guided filters (new)
+    mealType: null,
+    cookTime: null,
+    dietary: null,
+    highProtein: false,
+    // Traditional filters
     filters: {
       categories: new Set(),
       sources: new Set(),
@@ -51,13 +55,12 @@
   const filterGroups = [
     { key: "categories", element: elements.categoryFilters, accessor: (recipe) => recipe.categories },
     { key: "sources", element: elements.sourceFilters, accessor: (recipe) => [recipe.source] },
-    { key: "collections", element: elements.collectionFilters, accessor: (recipe) => [recipe.collection] },
     { key: "focus", element: elements.focusFilters, accessor: (recipe) => [recipe.focus] },
-    { key: "tags", element: elements.tagFilters, accessor: (recipe) => recipe.tags },
     { key: "ingredients", element: elements.ingredientFilters, accessor: (recipe) => recipe.ingredients },
   ];
 
   renderHero();
+  renderGuidedButtons();
   renderFilterGroups();
   render();
   attachEvents();
@@ -193,15 +196,20 @@
       state.search = "";
       state.favoritesOnly = false;
       state.sort = "recommended";
+      // Clear guided filters
+      state.mealType = null;
+      state.cookTime = null;
+      state.dietary = null;
+      state.highProtein = false;
+      // Clear traditional filters
       state.filters.categories.clear();
       state.filters.sources.clear();
-      state.filters.collections.clear();
       state.filters.focus.clear();
-      state.filters.tags.clear();
       state.filters.ingredients.clear();
       elements.searchInput.value = "";
       elements.favoritesOnly.checked = false;
       elements.sortSelect.value = "recommended";
+      renderGuidedButtons();
       renderFilterGroups();
       render();
     });
@@ -290,6 +298,108 @@
         closeRecipe();
       }
     });
+
+    // Guided filter buttons
+    document.addEventListener("click", (event) => {
+      const mealBtn = event.target.closest("[data-meal]");
+      if (mealBtn) {
+        const meal = mealBtn.getAttribute("data-meal");
+        state.mealType = state.mealType === meal ? null : meal;
+        renderGuidedButtons();
+        render();
+        return;
+      }
+
+      const timeBtn = event.target.closest("[data-time]");
+      if (timeBtn) {
+        const time = timeBtn.getAttribute("data-time");
+        state.cookTime = state.cookTime === time ? null : time;
+        renderGuidedButtons();
+        render();
+        return;
+      }
+
+      const dietaryBtn = event.target.closest("[data-dietary]");
+      if (dietaryBtn) {
+        const dietary = dietaryBtn.getAttribute("data-dietary");
+        state.dietary = state.dietary === dietary ? null : dietary;
+        renderGuidedButtons();
+        render();
+        return;
+      }
+
+      const proteinBtn = event.target.closest("[data-protein]");
+      if (proteinBtn) {
+        state.highProtein = !state.highProtein;
+        renderGuidedButtons();
+        render();
+        return;
+      }
+
+      const presetBtn = event.target.closest("[data-preset]");
+      if (presetBtn) {
+        applyPreset(presetBtn.getAttribute("data-preset"));
+        return;
+      }
+    });
+  }
+
+  function applyPreset(preset) {
+    // Clear existing filters first
+    state.mealType = null;
+    state.cookTime = null;
+    state.dietary = null;
+    state.highProtein = false;
+    state.filters.categories.clear();
+    state.filters.sources.clear();
+    state.filters.focus.clear();
+    state.filters.ingredients.clear();
+
+    switch (preset) {
+      case "weeknight":
+        state.mealType = "dinner";
+        state.cookTime = "quick";
+        break;
+      case "mealprep":
+        state.mealType = "dinner";
+        state.filters.categories.add("Beans & Legumes");
+        break;
+      case "impressive":
+        state.mealType = "dinner";
+        state.cookTime = "long";
+        state.filters.categories.add("Seafood");
+        break;
+      case "comfort":
+        state.mealType = "dinner";
+        state.filters.categories.add("Pasta & Noodles");
+        break;
+    }
+
+    renderGuidedButtons();
+    renderFilterGroups();
+    render();
+  }
+
+  function renderGuidedButtons() {
+    // Meal type buttons
+    document.querySelectorAll("[data-meal]").forEach((btn) => {
+      btn.classList.toggle("active", btn.getAttribute("data-meal") === state.mealType);
+    });
+
+    // Time buttons
+    document.querySelectorAll("[data-time]").forEach((btn) => {
+      btn.classList.toggle("active", btn.getAttribute("data-time") === state.cookTime);
+    });
+
+    // Dietary buttons
+    document.querySelectorAll("[data-dietary]").forEach((btn) => {
+      btn.classList.toggle("active", btn.getAttribute("data-dietary") === state.dietary);
+    });
+
+    // Protein button
+    document.querySelectorAll("[data-protein]").forEach((btn) => {
+      btn.classList.toggle("active", state.highProtein);
+    });
   }
 
   function getFilteredRecipes() {
@@ -300,6 +410,24 @@
         return false;
       }
 
+      // Guided filters
+      if (state.mealType && recipe.mealType !== state.mealType && recipe.mealType !== "any") {
+        return false;
+      }
+
+      if (state.cookTime && recipe.cookTime !== state.cookTime) {
+        return false;
+      }
+
+      if (state.dietary && (!recipe.dietary || !recipe.dietary.includes(state.dietary))) {
+        return false;
+      }
+
+      if (state.highProtein && !recipe.isHighProtein) {
+        return false;
+      }
+
+      // Traditional filters
       if (state.filters.categories.size > 0 && !recipe.categories.some((value) => state.filters.categories.has(value))) {
         return false;
       }
@@ -308,15 +436,7 @@
         return false;
       }
 
-      if (state.filters.collections.size > 0 && !state.filters.collections.has(recipe.collection)) {
-        return false;
-      }
-
       if (state.filters.focus.size > 0 && !state.filters.focus.has(recipe.focus)) {
-        return false;
-      }
-
-      if (state.filters.tags.size > 0 && !recipe.tags.some((value) => state.filters.tags.has(value))) {
         return false;
       }
 
