@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recipe Shelf</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Recipe archive</p>
+          <h1>Browse the whole shelf without digging through filenames.</h1>
+          <p class="hero-text">
+            Search, filter by type, source, ingredient focus, and jump straight
+            into any PDF.
+          </p>
+        </div>
+        <div class="hero-stats" id="hero-stats"></div>
+      </header>
+
+      <main class="layout">
+        <aside class="sidebar">
+          <section class="panel">
+            <label class="search-label" for="search-input">Search recipes</label>
+            <div class="search-wrap">
+              <input
+                id="search-input"
+                class="search-input"
+                type="search"
+                placeholder="Salmon, soup, Mob, pasta..."
+                autocomplete="off"
+              />
+            </div>
+            <div class="toolbar">
+              <button class="button button-ghost" id="clear-filters" type="button">
+                Clear filters
+              </button>
+              <button class="button button-accent" id="random-pick" type="button">
+                Surprise me
+              </button>
+            </div>
+            <label class="favorite-toggle">
+              <input id="favorites-only" type="checkbox" />
+              <span>Favorites only</span>
+            </label>
+          </section>
+
+          <section class="panel">
+            <div class="section-heading">
+              <h2>Categories</h2>
+            </div>
+            <div class="filter-group" id="category-filters"></div>
+          </section>
+
+          <section class="panel">
+            <div class="section-heading">
+              <h2>Sources</h2>
+            </div>
+            <div class="filter-group" id="source-filters"></div>
+          </section>
+
+          <section class="panel">
+            <div class="section-heading">
+              <h2>Collections</h2>
+            </div>
+            <div class="filter-group" id="collection-filters"></div>
+          </section>
+
+          <section class="panel">
+            <div class="section-heading">
+              <h2>Focus</h2>
+            </div>
+            <div class="filter-group" id="focus-filters"></div>
+          </section>
+
+          <section class="panel">
+            <div class="section-heading">
+              <h2>Tags</h2>
+            </div>
+            <div class="filter-group" id="tag-filters"></div>
+          </section>
+
+          <section class="panel">
+            <div class="section-heading">
+              <h2>Ingredients</h2>
+            </div>
+            <div class="filter-group" id="ingredient-filters"></div>
+          </section>
+        </aside>
+
+        <section class="content">
+          <div class="content-bar panel panel-flat">
+            <div>
+              <p class="eyebrow">Results</p>
+              <h2 id="results-title">All recipes</h2>
+            </div>
+            <div class="content-actions">
+              <label class="sort-wrap" for="sort-select">
+                <span>Sort</span>
+                <select id="sort-select" class="sort-select">
+                  <option value="recommended">Recommended</option>
+                  <option value="az">A-Z</option>
+                  <option value="recent">Recently added</option>
+                  <option value="size">Biggest PDFs</option>
+                </select>
+              </label>
+              <div class="result-meta" id="result-meta"></div>
+            </div>
+          </div>
+
+          <div class="active-filters" id="active-filters"></div>
+          <div class="card-grid" id="recipe-grid"></div>
+          <div class="empty-state hidden" id="empty-state">
+            <h3>No recipes matched those filters.</h3>
+            <p>Try a broader search or clear a few chips.</p>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div class="modal hidden" id="recipe-modal" aria-hidden="true">
+      <div class="modal-backdrop" data-close-modal="true"></div>
+      <div class="modal-card">
+        <button class="modal-close" id="close-modal" type="button" aria-label="Close">
+          x
+        </button>
+        <div class="modal-copy">
+          <p class="eyebrow" id="modal-category"></p>
+          <h2 id="modal-title"></h2>
+          <div class="meta-row" id="modal-meta"></div>
+          <p class="modal-description" id="modal-description"></p>
+          <div class="tag-row" id="modal-tags"></div>
+          <div class="modal-actions">
+            <a class="button button-accent" id="modal-open-link" href="#" target="_blank" rel="noreferrer">
+              Open PDF
+            </a>
+            <button class="button button-ghost" id="modal-favorite" type="button">
+              Add to favorites
+            </button>
+          </div>
+        </div>
+        <div class="modal-preview">
+          <iframe id="modal-frame" title="Recipe preview"></iframe>
+        </div>
+      </div>
+    </div>
+
+    <script src="recipes-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
