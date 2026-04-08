@@ -568,9 +568,11 @@ window.RECIPES = [
       "Beans",
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 35,
     "fileSizeKb": 4599,
     "modifiedAt": "2026-04-08T07:05:00.326Z",
     "sortTitle": "beans, greens, and crispy trout",
@@ -724,7 +726,7 @@ window.RECIPES = [
       "Beans"
     ],
     "tags": [
-      "40g+ Protein"
+      "30g+ Protein"
     ],
     "isHighProtein": true,
     "proteinPerServingG": 44,
@@ -757,9 +759,11 @@ window.RECIPES = [
     "ingredients": [
       "Crab"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 30,
     "fileSizeKb": 94,
     "modifiedAt": "2026-04-08T07:05:00.393Z",
     "sortTitle": "best crab cakes",
@@ -962,9 +966,11 @@ window.RECIPES = [
     "ingredients": [
       "Salmon"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 32,
     "fileSizeKb": 73,
     "modifiedAt": "2026-04-08T07:05:00.409Z",
     "sortTitle": "blackened salmon tacos with slaw, avocado, and grapefruit",
@@ -1279,9 +1285,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 35,
     "fileSizeKb": 78,
     "modifiedAt": "2026-04-08T07:05:00.476Z",
     "sortTitle": "butter-basted fish fillets with garlic and thyme",
@@ -1407,9 +1415,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 35,
     "fileSizeKb": 4138,
     "modifiedAt": "2026-04-08T07:05:00.490Z",
     "sortTitle": "cantonese steamed fish",
@@ -2265,9 +2275,11 @@ window.RECIPES = [
     "ingredients": [
       "Cod"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 40,
     "fileSizeKb": 2744,
     "modifiedAt": "2026-04-08T07:05:00.361Z",
     "sortTitle": "cod, fennel, and chorizo",
@@ -3443,9 +3455,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 32,
     "fileSizeKb": 113,
     "modifiedAt": "2026-04-08T07:05:00.600Z",
     "sortTitle": "fish and chips",
@@ -3775,9 +3789,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 30,
     "fileSizeKb": 4221,
     "modifiedAt": "2026-04-08T07:05:00.622Z",
     "sortTitle": "fried fish and sungolds",
@@ -3922,9 +3938,11 @@ window.RECIPES = [
     "ingredients": [
       "Salmon"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 38,
     "fileSizeKb": 183,
     "modifiedAt": "2026-04-08T07:05:00.628Z",
     "sortTitle": "glazed salmon",
@@ -4138,9 +4156,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 30,
     "fileSizeKb": 222,
     "modifiedAt": "2026-04-08T07:05:00.634Z",
     "sortTitle": "grilled fish tacos",
@@ -4169,9 +4189,11 @@ window.RECIPES = [
     "ingredients": [
       "Lobster"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 36,
     "fileSizeKb": 76,
     "modifiedAt": "2026-04-08T07:05:00.636Z",
     "sortTitle": "grilled lobsters",
@@ -4228,9 +4250,11 @@ window.RECIPES = [
     "ingredients": [
       "Salmon"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 36,
     "fileSizeKb": 243,
     "modifiedAt": "2026-04-08T07:05:00.638Z",
     "sortTitle": "grilled party salmon with green romesco recipe _ bon appetit copy",
@@ -4259,9 +4283,11 @@ window.RECIPES = [
     "ingredients": [
       "Salmon"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 38,
     "fileSizeKb": 90,
     "modifiedAt": "2026-04-08T07:05:00.639Z",
     "sortTitle": "grilled salmon",
@@ -4417,9 +4443,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 32,
     "fileSizeKb": 183,
     "modifiedAt": "2026-04-08T07:05:00.649Z",
     "sortTitle": "grilled whole trout with lime and coriander",
@@ -4774,9 +4802,11 @@ window.RECIPES = [
     "ingredients": [
       "Salmon"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 40,
     "fileSizeKb": 66,
     "modifiedAt": "2026-04-08T07:05:00.660Z",
     "sortTitle": "hot-smoked whole side of salmon",
@@ -5282,9 +5312,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 30,
     "fileSizeKb": 66,
     "modifiedAt": "2026-04-08T07:05:00.691Z",
     "sortTitle": "maeuntang (korean spicy fish stew)",
@@ -5342,9 +5374,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 30,
     "fileSizeKb": 61,
     "modifiedAt": "2026-04-08T07:05:00.691Z",
     "sortTitle": "mediterranean couscous salad with smoked trout",
@@ -5437,9 +5471,11 @@ window.RECIPES = [
     "ingredients": [
       "Salmon"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 38,
     "fileSizeKb": 124,
     "modifiedAt": "2026-04-08T07:05:00.695Z",
     "sortTitle": "miso-marinated salmon",
@@ -5469,9 +5505,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 32,
     "fileSizeKb": 71,
     "modifiedAt": "2026-04-08T07:05:00.764Z",
     "sortTitle": "moroccan fish tagine for two",
@@ -5838,9 +5876,11 @@ window.RECIPES = [
       "Fish",
       "Rice"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 32,
     "fileSizeKb": 166,
     "modifiedAt": "2026-04-08T07:05:00.699Z",
     "sortTitle": "one-pot fish biryani",
@@ -5872,9 +5912,11 @@ window.RECIPES = [
       "Cod",
       "Rice"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 36,
     "fileSizeKb": 3459,
     "modifiedAt": "2026-04-08T07:05:00.760Z",
     "sortTitle": "one-pot miso butter cod & rice",
@@ -5903,9 +5945,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 35,
     "fileSizeKb": 87,
     "modifiedAt": "2026-04-08T07:05:00.779Z",
     "sortTitle": "oven-steamed fish with scallions and ginger for two",
@@ -5997,9 +6041,11 @@ window.RECIPES = [
     "ingredients": [
       "Salmon"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 38,
     "fileSizeKb": 52,
     "modifiedAt": "2026-04-08T07:05:00.782Z",
     "sortTitle": "pan-seared salmon",
@@ -6059,9 +6105,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 42,
     "fileSizeKb": 53,
     "modifiedAt": "2026-04-08T07:05:00.785Z",
     "sortTitle": "pan-seared sesame-crusted tuna steaks",
@@ -6367,9 +6415,11 @@ window.RECIPES = [
       "Fish",
       "Pasta"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 32,
     "fileSizeKb": 64,
     "modifiedAt": "2026-04-08T07:05:00.792Z",
     "sortTitle": "pesce all'acqua pazza (southern italian poached fish) with pasta",
@@ -7276,9 +7326,11 @@ window.RECIPES = [
     "ingredients": [
       "Salmon"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 40,
     "fileSizeKb": 55,
     "modifiedAt": "2026-04-08T07:05:00.828Z",
     "sortTitle": "roasted whole side of salmon",
@@ -7307,9 +7359,11 @@ window.RECIPES = [
     "ingredients": [
       "Salmon"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 40,
     "fileSizeKb": 2003,
     "modifiedAt": "2026-04-08T07:05:00.827Z",
     "sortTitle": "roasted whole side of salmon _ america's test kitchen recipe copy",
@@ -7401,9 +7455,11 @@ window.RECIPES = [
     "ingredients": [
       "Salmon"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 38,
     "fileSizeKb": 4554,
     "modifiedAt": "2026-04-08T07:05:00.855Z",
     "sortTitle": "salmon with ponzu and cilantro oil",
@@ -7740,9 +7796,11 @@ window.RECIPES = [
     "ingredients": [
       "Shrimp"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 30,
     "fileSizeKb": 3417,
     "modifiedAt": "2026-04-08T07:05:00.881Z",
     "sortTitle": "shrimp dumplings w_ old bay broth",
@@ -7771,9 +7829,11 @@ window.RECIPES = [
     "ingredients": [
       "Shrimp"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 30,
     "fileSizeKb": 319,
     "modifiedAt": "2026-04-08T07:05:00.882Z",
     "sortTitle": "shrimp potstickers",
@@ -8159,9 +8219,11 @@ window.RECIPES = [
     "ingredients": [
       "Lobster"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 36,
     "fileSizeKb": 131,
     "modifiedAt": "2026-04-08T07:05:00.912Z",
     "sortTitle": "steamed whole lobsters",
@@ -8282,7 +8344,7 @@ window.RECIPES = [
     ],
     "tags": [],
     "isHighProtein": false,
-    "proteinPerServingG": null,
+    "proteinPerServingG": 28,
     "fileSizeKb": 98,
     "modifiedAt": "2026-04-08T07:05:00.702Z",
     "sortTitle": "super green spiced halloumi & rice",
@@ -8461,9 +8523,11 @@ window.RECIPES = [
       "Lentils",
       "Halloumi"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 32,
     "fileSizeKb": 156,
     "modifiedAt": "2026-04-08T07:05:00.697Z",
     "sortTitle": "tikka halloumi & curried lentils",
@@ -8493,9 +8557,11 @@ window.RECIPES = [
       "Lentils",
       "Halloumi"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 32,
     "fileSizeKb": 2707,
     "modifiedAt": "2026-04-08T07:05:01.007Z",
     "sortTitle": "tikka halloumi & curried lentils",
@@ -8581,9 +8647,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 32,
     "fileSizeKb": 3610,
     "modifiedAt": "2026-04-08T07:05:01.014Z",
     "sortTitle": "trout with brown butter and grapes",
@@ -8615,9 +8683,11 @@ window.RECIPES = [
       "Beans",
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 35,
     "fileSizeKb": 1992,
     "modifiedAt": "2026-04-08T07:05:00.732Z",
     "sortTitle": "tuna & green bean chopped salad",
@@ -9334,9 +9404,11 @@ window.RECIPES = [
     "ingredients": [
       "Fish"
     ],
-    "tags": [],
-    "isHighProtein": false,
-    "proteinPerServingG": null,
+    "tags": [
+      "30g+ Protein"
+    ],
+    "isHighProtein": true,
+    "proteinPerServingG": 32,
     "fileSizeKb": 3443,
     "modifiedAt": "2026-04-08T07:05:01.044Z",
     "sortTitle": "yellow fish curry",

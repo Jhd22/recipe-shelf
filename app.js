@@ -133,7 +133,7 @@
       },
       {
         value: recipes.filter((recipe) => recipe.isHighProtein).length,
-        label: "40g+ protein picks",
+        label: "30g+ protein picks",
       },
     ];
 
@@ -680,7 +680,7 @@
       .concat(recipe.ingredients)
       .slice(0, 8)
       .map((tag, index) => {
-        const className = tag === "40g+ Protein" ? "protein" : index === 0 ? "category" : "";
+        const className = tag === "30g+ Protein" ? "protein" : index === 0 ? "category" : "";
         return `<span class="tag ${className}">${escapeHtml(tag)}</span>`;
       })
       .join("");

@@ -500,7 +500,7 @@ async function walkRecipes(dirPath) {
     const ingredients = matchRules(normalizedTitle, ingredientRules).slice(0, 5);
     const proteinOverride = resolveProteinOverride(normalizedTitle);
     const proteinPerServingG = proteinOverride?.proteinPerServingG ?? null;
-    const tags = proteinPerServingG >= 40 ? ["40g+ Protein"] : [];
+    const tags = proteinPerServingG >= 30 ? ["30g+ Protein"] : [];
 
     // New metadata
     const mealTypeMatches = matchRules(normalizedTitle, mealTypeRules);
@@ -522,7 +522,7 @@ async function walkRecipes(dirPath) {
       cuisine,
       ingredients,
       tags,
-      isHighProtein: proteinPerServingG >= 40,
+      isHighProtein: proteinPerServingG >= 30,
       proteinPerServingG,
       fileSizeKb: Math.round(stats.size / 1024),
       modifiedAt: toIsoDate(stats.mtimeMs),
